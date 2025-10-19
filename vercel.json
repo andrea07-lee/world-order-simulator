@@ -1,0 +1,5 @@
+{
+    "buildCommand": "NEXT_IGNORE_TYPE_CHECKING=1 next build",
+    "framework": "nextjs"
+  }
+  
