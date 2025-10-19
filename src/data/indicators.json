@@ -1,0 +1,2387 @@
+[
+  {
+    "Country Name": "Aruba",
+    "Country Code": "ABW",
+    "population_total": "107624.0",
+    "gdp_ppp_current_intl$": "4827649139.539837",
+    "trade_pct_gdp": "169.7982826150573"
+  },
+  {
+    "Country Name": "Africa Eastern and Southern",
+    "Country Code": "AFE",
+    "population_total": "769294618.0",
+    "gdp_ppp_current_intl$": "3447399081277.6694",
+    "trade_pct_gdp": "54.117407558911246",
+    "military_expenditure_pct_gdp": "1.0365442787242076"
+  },
+  {
+    "Country Name": "Afghanistan",
+    "Country Code": "AFG",
+    "population_total": "42647492.0",
+    "gdp_ppp_current_intl$": "91271896894.46002",
+    "trade_pct_gdp": "67.58466515163852",
+    "military_expenditure_pct_gdp": "1.827933856217",
+    "democracy_index": "0.25",
+    "hdi": "0.496"
+  },
+  {
+    "Country Name": "Africa Western and Central",
+    "Country Code": "AFW",
+    "population_total": "521764076.0",
+    "gdp_ppp_current_intl$": "2942661070484.415",
+    "trade_pct_gdp": "33.02326009876288",
+    "military_expenditure_pct_gdp": "1.1988837659937348"
+  },
+  {
+    "Country Name": "Angola",
+    "Country Code": "AGO",
+    "population_total": "37885849.0",
+    "gdp_ppp_current_intl$": "316269278905.41583",
+    "trade_pct_gdp": "62.29591876593681",
+    "military_expenditure_pct_gdp": "1.33252915998752",
+    "democracy_index": "4.05",
+    "hdi": "0.616"
+  },
+  {
+    "Country Name": "Albania",
+    "Country Code": "ALB",
+    "population_total": "2714617.0",
+    "gdp_ppp_current_intl$": "63760906790.77882",
+    "trade_pct_gdp": "79.07075976661906",
+    "military_expenditure_pct_gdp": "1.7439916766918602",
+    "democracy_index": "6.2",
+    "hdi": "0.81"
+  },
+  {
+    "Country Name": "Andorra",
+    "Country Code": "AND",
+    "population_total": "81938.0",
+    "gdp_ppp_current_intl$": "6140390670.090902",
+    "hdi": "0.913"
+  },
+  {
+    "Country Name": "Arab World",
+    "Country Code": "ARB",
+    "population_total": "492579811.0",
+    "gdp_ppp_current_intl$": "9253999567617.39",
+    "trade_pct_gdp": "86.79232956523164",
+    "military_expenditure_pct_gdp": "5.208524067069291"
+  },
+  {
+    "Country Name": "United Arab Emirates",
+    "Country Code": "ARE",
+    "population_total": "10876981.0",
+    "gdp_ppp_current_intl$": "847957424147.982",
+    "trade_pct_gdp": "202.332536002327",
+    "military_expenditure_pct_gdp": "5.64365135247024",
+    "democracy_index": "3.07",
+    "hdi": "0.94"
+  },
+  {
+    "Country Name": "Argentina",
+    "Country Code": "ARG",
+    "population_total": "45696159.0",
+    "gdp_ppp_current_intl$": "1378906089397.4685",
+    "trade_pct_gdp": "28.159401434878166",
+    "military_expenditure_pct_gdp": "0.472747196738259",
+    "democracy_index": "6.51",
+    "hdi": "0.865"
+  },
+  {
+    "Country Name": "Armenia",
+    "Country Code": "ARM",
+    "population_total": "3033500.0",
+    "gdp_ppp_current_intl$": "69234115090.81409",
+    "trade_pct_gdp": "152.14022908422976",
+    "military_expenditure_pct_gdp": "5.45092500345977",
+    "democracy_index": "5.35",
+    "hdi": "0.811"
+  },
+  {
+    "Country Name": "American Samoa",
+    "Country Code": "ASM",
+    "population_total": "46765.0",
+    "trade_pct_gdp": "124.68427095292766"
+  },
+  {
+    "Country Name": "Antigua and Barbuda",
+    "Country Code": "ATG",
+    "population_total": "93772.0",
+    "gdp_ppp_current_intl$": "3150959938.8934937",
+    "trade_pct_gdp": "117.70352776835269",
+    "hdi": "0.851"
+  },
+  {
+    "Country Name": "Australia",
+    "Country Code": "AUS",
+    "population_total": "27204809.0",
+    "gdp_ppp_current_intl$": "1936797839321.65",
+    "trade_pct_gdp": "47.31422901312887",
+    "military_expenditure_pct_gdp": "1.92219906285917",
+    "democracy_index": "8.85",
+    "hdi": "0.958"
+  },
+  {
+    "Country Name": "Austria",
+    "Country Code": "AUT",
+    "population_total": "9178482.0",
+    "gdp_ppp_current_intl$": "657343622086.7665",
+    "trade_pct_gdp": "110.53546243976392",
+    "military_expenditure_pct_gdp": "0.844274840737983",
+    "democracy_index": "8.28",
+    "hdi": "0.93"
+  },
+  {
+    "Country Name": "Azerbaijan",
+    "Country Code": "AZE",
+    "population_total": "10202850.0",
+    "gdp_ppp_current_intl$": "255978795310.90952",
+    "trade_pct_gdp": "82.6898691594703",
+    "military_expenditure_pct_gdp": "4.6021031480828105",
+    "democracy_index": "2.8",
+    "hdi": "0.789"
+  },
+  {
+    "Country Name": "Burundi",
+    "Country Code": "BDI",
+    "population_total": "14047786.0",
+    "gdp_ppp_current_intl$": "13343073380.47738",
+    "trade_pct_gdp": "29.736972306625127",
+    "military_expenditure_pct_gdp": "3.65892759114663",
+    "democracy_index": "2.13",
+    "hdi": "0.439"
+  },
+  {
+    "Country Name": "Belgium",
+    "Country Code": "BEL",
+    "population_total": "11876844.0",
+    "gdp_ppp_current_intl$": "856629284653.9323",
+    "trade_pct_gdp": "158.4529496620351",
+    "military_expenditure_pct_gdp": "1.21461599569106",
+    "democracy_index": "7.64",
+    "hdi": "0.951"
+  },
+  {
+    "Country Name": "Benin",
+    "Country Code": "BEN",
+    "population_total": "14462724.0",
+    "gdp_ppp_current_intl$": "64135878351.03546",
+    "trade_pct_gdp": "40.63980224015232",
+    "military_expenditure_pct_gdp": "0.7112022699095529",
+    "democracy_index": "4.44",
+    "hdi": "0.515"
+  },
+  {
+    "Country Name": "Burkina Faso",
+    "Country Code": "BFA",
+    "population_total": "23548781.0",
+    "gdp_ppp_current_intl$": "68201683192.87026",
+    "trade_pct_gdp": "63.42834662328364",
+    "military_expenditure_pct_gdp": "4.00532688335591",
+    "democracy_index": "2.55",
+    "hdi": "0.459"
+  },
+  {
+    "Country Name": "Bangladesh",
+    "Country Code": "BGD",
+    "population_total": "173562364.0",
+    "gdp_ppp_current_intl$": "1674316179059.4878",
+    "trade_pct_gdp": "26.778076339325192",
+    "military_expenditure_pct_gdp": "1.02281837589173",
+    "democracy_index": "4.44",
+    "hdi": "0.685"
+  },
+  {
+    "Country Name": "Bulgaria",
+    "Country Code": "BGR",
+    "population_total": "6444366.0",
+    "gdp_ppp_current_intl$": "264773991018.95453",
+    "trade_pct_gdp": "109.28884079279692",
+    "military_expenditure_pct_gdp": "1.84737280288254",
+    "democracy_index": "6.34",
+    "hdi": "0.845"
+  },
+  {
+    "Country Name": "Bahrain",
+    "Country Code": "BHR",
+    "population_total": "1588670.0",
+    "gdp_ppp_current_intl$": "106776082045.15411",
+    "trade_pct_gdp": "157.44785468229745",
+    "military_expenditure_pct_gdp": "3.10846000977851",
+    "democracy_index": "2.45",
+    "hdi": "0.899"
+  },
+  {
+    "Country Name": "Bahamas, The",
+    "Country Code": "BHS",
+    "population_total": "401283.0",
+    "gdp_ppp_current_intl$": "16532024282.48164",
+    "trade_pct_gdp": "79.24245869334547",
+    "hdi": "0.82"
+  },
+  {
+    "Country Name": "Bosnia and Herzegovina",
+    "Country Code": "BIH",
+    "population_total": "3164253.0",
+    "gdp_ppp_current_intl$": "69521962129.18864",
+    "trade_pct_gdp": "99.97435221732988",
+    "military_expenditure_pct_gdp": "0.80838231949892",
+    "democracy_index": "5.06",
+    "hdi": "0.804"
+  },
+  {
+    "Country Name": "Belarus",
+    "Country Code": "BLR",
+    "population_total": "9133712.0",
+    "gdp_ppp_current_intl$": "301471103995.52686",
+    "trade_pct_gdp": "131.91792910244993",
+    "military_expenditure_pct_gdp": "1.79770336310455",
+    "democracy_index": "1.99",
+    "hdi": "0.824"
+  },
+  {
+    "Country Name": "Belize",
+    "Country Code": "BLZ",
+    "population_total": "417072.0",
+    "gdp_ppp_current_intl$": "6294776296.61763",
+    "trade_pct_gdp": "106.53175571025646",
+    "military_expenditure_pct_gdp": "0.8219288800668489",
+    "hdi": "0.721"
+  },
+  {
+    "Country Name": "Bermuda",
+    "Country Code": "BMU",
+    "population_total": "64636.0",
+    "gdp_ppp_current_intl$": "7738130438.586063",
+    "trade_pct_gdp": "80.51825126389167"
+  },
+  {
+    "Country Name": "Bolivia",
+    "Country Code": "BOL",
+    "population_total": "12413315.0",
+    "gdp_ppp_current_intl$": "138902580580.6858",
+    "trade_pct_gdp": "56.4582389783573",
+    "military_expenditure_pct_gdp": "1.38612164709346",
+    "democracy_index": "4.26",
+    "hdi": "0.733"
+  },
+  {
+    "Country Name": "Brazil",
+    "Country Code": "BRA",
+    "population_total": "211998573.0",
+    "gdp_ppp_current_intl$": "4734651403044.358",
+    "trade_pct_gdp": "35.53122024424571",
+    "military_expenditure_pct_gdp": "1.0787690601644802",
+    "democracy_index": "6.49",
+    "hdi": "0.786"
+  },
+  {
+    "Country Name": "Barbados",
+    "Country Code": "BRB",
+    "population_total": "282467.0",
+    "gdp_ppp_current_intl$": "6404076764.652632",
+    "hdi": "0.811"
+  },
+  {
+    "Country Name": "Brunei Darussalam",
+    "Country Code": "BRN",
+    "population_total": "462721.0",
+    "gdp_ppp_current_intl$": "41648164901.18979",
+    "trade_pct_gdp": "133.22321853808367",
+    "military_expenditure_pct_gdp": "2.9691070914081097",
+    "hdi": "0.837"
+  },
+  {
+    "Country Name": "Bhutan",
+    "Country Code": "BTN",
+    "population_total": "791524.0",
+    "gdp_ppp_current_intl$": "12781872654.677498",
+    "trade_pct_gdp": "81.56452985132395",
+    "democracy_index": "5.65",
+    "hdi": "0.698"
+  },
+  {
+    "Country Name": "Botswana",
+    "Country Code": "BWA",
+    "population_total": "2521139.0",
+    "gdp_ppp_current_intl$": "51779485612.78352",
+    "trade_pct_gdp": "66.97552880367762",
+    "military_expenditure_pct_gdp": "2.5298225030212103",
+    "democracy_index": "7.63",
+    "hdi": "0.731"
+  },
+  {
+    "Country Name": "Central African Republic",
+    "Country Code": "CAF",
+    "population_total": "5330690.0",
+    "gdp_ppp_current_intl$": "6735836123.999462",
+    "trade_pct_gdp": "47.82322323600386",
+    "military_expenditure_pct_gdp": "2.28543299952889",
+    "democracy_index": "1.18",
+    "hdi": "0.414"
+  },
+  {
+    "Country Name": "Canada",
+    "Country Code": "CAN",
+    "population_total": "41288599.0",
+    "gdp_ppp_current_intl$": "2702879648009.751",
+    "trade_pct_gdp": "65.17903399127167",
+    "military_expenditure_pct_gdp": "1.29300145446276",
+    "democracy_index": "8.69",
+    "hdi": "0.939"
+  },
+  {
+    "Country Name": "Central Europe and the Baltics",
+    "Country Code": "CEB",
+    "population_total": "100050066.0",
+    "gdp_ppp_current_intl$": "4979278148968.932",
+    "trade_pct_gdp": "116.08108305580328",
+    "military_expenditure_pct_gdp": "2.547086680987759"
+  },
+  {
+    "Country Name": "Switzerland",
+    "Country Code": "CHE",
+    "population_total": "9034102.0",
+    "gdp_ppp_current_intl$": "847567772890.8446",
+    "trade_pct_gdp": "134.09514852060977",
+    "military_expenditure_pct_gdp": "0.702718004518668",
+    "democracy_index": "9.32",
+    "hdi": "0.97"
+  },
+  {
+    "Country Name": "Channel Islands",
+    "Country Code": "CHI",
+    "population_total": "168126.0"
+  },
+  {
+    "Country Name": "Chile",
+    "Country Code": "CHL",
+    "population_total": "19764771.0",
+    "gdp_ppp_current_intl$": "684594682203.9733",
+    "trade_pct_gdp": "63.85985724806601",
+    "military_expenditure_pct_gdp": "1.6328889293068998",
+    "democracy_index": "7.83",
+    "hdi": "0.878"
+  },
+  {
+    "Country Name": "China",
+    "Country Code": "CHN",
+    "population_total": "1408975000.0",
+    "gdp_ppp_current_intl$": "38190084585497.84",
+    "trade_pct_gdp": "37.19842013886228",
+    "military_expenditure_pct_gdp": "1.66533914524613",
+    "democracy_index": "2.11",
+    "hdi": "0.797"
+  },
+  {
+    "Country Name": "Cote d'Ivoire",
+    "Country Code": "CIV",
+    "population_total": "31934230.0",
+    "gdp_ppp_current_intl$": "244407043373.22717",
+    "trade_pct_gdp": "54.66692798409499",
+    "military_expenditure_pct_gdp": "0.886138694874967",
+    "democracy_index": "4.22",
+    "hdi": "0.582"
+  },
+  {
+    "Country Name": "Cameroon",
+    "Country Code": "CMR",
+    "population_total": "29123744.0",
+    "gdp_ppp_current_intl$": "162845309666.94608",
+    "trade_pct_gdp": "35.88617536932074",
+    "military_expenditure_pct_gdp": "0.933338169286478",
+    "democracy_index": "2.56",
+    "hdi": "0.588"
+  },
+  {
+    "Country Name": "Congo, Dem. Rep.",
+    "Country Code": "COD",
+    "population_total": "109276265.0",
+    "gdp_ppp_current_intl$": "186833135551.66696",
+    "trade_pct_gdp": "97.49464705196516",
+    "military_expenditure_pct_gdp": "1.1643969015800302",
+    "democracy_index": "1.92",
+    "hdi": "0.522"
+  },
+  {
+    "Country Name": "Congo, Rep.",
+    "Country Code": "COG",
+    "population_total": "6332961.0",
+    "gdp_ppp_current_intl$": "44497676671.90186",
+    "trade_pct_gdp": "93.18812392393367",
+    "military_expenditure_pct_gdp": "2.00045624049447",
+    "democracy_index": "2.79",
+    "hdi": "0.649"
+  },
+  {
+    "Country Name": "Colombia",
+    "Country Code": "COL",
+    "population_total": "52886363.0",
+    "gdp_ppp_current_intl$": "1136771232492.381",
+    "trade_pct_gdp": "36.888693161760656",
+    "military_expenditure_pct_gdp": "2.8729831874167298",
+    "democracy_index": "6.35",
+    "hdi": "0.788"
+  },
+  {
+    "Country Name": "Comoros",
+    "Country Code": "COM",
+    "population_total": "866628.0",
+    "gdp_ppp_current_intl$": "3514286024.880796",
+    "trade_pct_gdp": "44.37317675666592",
+    "democracy_index": "2.84",
+    "hdi": "0.603"
+  },
+  {
+    "Country Name": "Cabo Verde",
+    "Country Code": "CPV",
+    "population_total": "524877.0",
+    "gdp_ppp_current_intl$": "5911044392.74439",
+    "trade_pct_gdp": "95.09479512154488",
+    "military_expenditure_pct_gdp": "0.528231870181008",
+    "democracy_index": "7.58",
+    "hdi": "0.668"
+  },
+  {
+    "Country Name": "Costa Rica",
+    "Country Code": "CRI",
+    "population_total": "5129910.0",
+    "gdp_ppp_current_intl$": "154219710536.77615",
+    "trade_pct_gdp": "71.33101376863647",
+    "democracy_index": "8.29",
+    "hdi": "0.833"
+  },
+  {
+    "Country Name": "Caribbean small states",
+    "Country Code": "CSS",
+    "population_total": "4539060.0",
+    "gdp_ppp_current_intl$": "174613524421.51935"
+  },
+  {
+    "Country Name": "Cuba",
+    "Country Code": "CUB",
+    "population_total": "10979783.0",
+    "trade_pct_gdp": "108.1353237448144",
+    "military_expenditure_pct_gdp": "2.87620737245072",
+    "democracy_index": "2.58",
+    "hdi": "0.762"
+  },
+  {
+    "Country Name": "Curacao",
+    "Country Code": "CUW",
+    "population_total": "155900.0",
+    "gdp_ppp_current_intl$": "4785486256.0917",
+    "trade_pct_gdp": "155.2688587716874"
+  },
+  {
+    "Country Name": "Cayman Islands",
+    "Country Code": "CYM",
+    "population_total": "74457.0",
+    "gdp_ppp_current_intl$": "6331606438.297446",
+    "trade_pct_gdp": "105.47278946532508"
+  },
+  {
+    "Country Name": "Cyprus",
+    "Country Code": "CYP",
+    "population_total": "1358282.0",
+    "gdp_ppp_current_intl$": "57562280958.789055",
+    "trade_pct_gdp": "189.798885929564",
+    "military_expenditure_pct_gdp": "1.82460300554278",
+    "democracy_index": "7.38",
+    "hdi": "0.913"
+  },
+  {
+    "Country Name": "Czechia",
+    "Country Code": "CZE",
+    "population_total": "10882164.0",
+    "gdp_ppp_current_intl$": "618168364251.9409",
+    "trade_pct_gdp": "131.9154017166378",
+    "military_expenditure_pct_gdp": "1.52418962408317",
+    "democracy_index": "8.08",
+    "hdi": "0.915"
+  },
+  {
+    "Country Name": "Germany",
+    "Country Code": "DEU",
+    "population_total": "83510950.0",
+    "gdp_ppp_current_intl$": "6037851748487.122",
+    "trade_pct_gdp": "80.34467140195946",
+    "military_expenditure_pct_gdp": "1.51965192096975",
+    "democracy_index": "8.73",
+    "hdi": "0.959"
+  },
+  {
+    "Country Name": "Djibouti",
+    "Country Code": "DJI",
+    "population_total": "1168722.0",
+    "gdp_ppp_current_intl$": "9088246562.646463",
+    "trade_pct_gdp": "309.0513846707767",
+    "military_expenditure_pct_gdp": "2.62758252462798",
+    "democracy_index": "2.7",
+    "hdi": "0.513"
+  },
+  {
+    "Country Name": "Dominica",
+    "Country Code": "DMA",
+    "population_total": "66205.0",
+    "gdp_ppp_current_intl$": "1410211841.8056982",
+    "hdi": "0.761"
+  },
+  {
+    "Country Name": "Denmark",
+    "Country Code": "DNK",
+    "population_total": "5976992.0",
+    "gdp_ppp_current_intl$": "475256247950.4704",
+    "trade_pct_gdp": "128.64300151878433",
+    "military_expenditure_pct_gdp": "1.9531959640583096",
+    "democracy_index": "9.28",
+    "hdi": "0.962"
+  },
+  {
+    "Country Name": "Dominican Republic",
+    "Country Code": "DOM",
+    "population_total": "11427557.0",
+    "gdp_ppp_current_intl$": "314728445100.48303",
+    "trade_pct_gdp": "51.783514395232565",
+    "military_expenditure_pct_gdp": "0.740729436807107",
+    "democracy_index": "6.62",
+    "hdi": "0.776"
+  },
+  {
+    "Country Name": "Algeria",
+    "Country Code": "DZA",
+    "population_total": "46814308.0",
+    "gdp_ppp_current_intl$": "821720979879.8877",
+    "trade_pct_gdp": "43.68291419557204",
+    "military_expenditure_pct_gdp": "8.1717205566288",
+    "democracy_index": "3.55",
+    "hdi": "0.763"
+  },
+  {
+    "Country Name": "East Asia & Pacific (excluding high income)",
+    "Country Code": "EAP",
+    "population_total": "2141122258.0",
+    "gdp_ppp_current_intl$": "49775908459051.27",
+    "trade_pct_gdp": "44.1198264933286",
+    "military_expenditure_pct_gdp": "1.5710954043102912"
+  },
+  {
+    "Country Name": "Early-demographic dividend",
+    "Country Code": "EAR",
+    "population_total": "3552278604.0",
+    "gdp_ppp_current_intl$": "49261914236722.67",
+    "trade_pct_gdp": "52.24619994534268",
+    "military_expenditure_pct_gdp": "2.224991071714081"
+  },
+  {
+    "Country Name": "East Asia & Pacific",
+    "Country Code": "EAS",
+    "population_total": "2388378491.0",
+    "gdp_ppp_current_intl$": "64817217343570.86",
+    "trade_pct_gdp": "58.57031819589892",
+    "military_expenditure_pct_gdp": "1.6399302350598302"
+  },
+  {
+    "Country Name": "Europe & Central Asia (excluding high income)",
+    "Country Code": "ECA",
+    "population_total": "250485944.0",
+    "gdp_ppp_current_intl$": "7169892600658.875",
+    "trade_pct_gdp": "67.731880671385",
+    "military_expenditure_pct_gdp": "4.829818042103112"
+  },
+  {
+    "Country Name": "Europe & Central Asia",
+    "Country Code": "ECS",
+    "population_total": "928465742.0",
+    "gdp_ppp_current_intl$": "47882602251766.84",
+    "trade_pct_gdp": "83.6857757949059",
+    "military_expenditure_pct_gdp": "2.288146287946724"
+  },
+  {
+    "Country Name": "Ecuador",
+    "Country Code": "ECU",
+    "population_total": "18135478.0",
+    "gdp_ppp_current_intl$": "287270811094.5589",
+    "trade_pct_gdp": "57.2031395531255",
+    "military_expenditure_pct_gdp": "2.29706957855181",
+    "democracy_index": "5.24",
+    "hdi": "0.777"
+  },
+  {
+    "Country Name": "Egypt, Arab Rep.",
+    "Country Code": "EGY",
+    "population_total": "116538258.0",
+    "gdp_ppp_current_intl$": "2225198389821.18",
+    "trade_pct_gdp": "39.60075208737333",
+    "military_expenditure_pct_gdp": "0.870565509711049",
+    "democracy_index": "2.79",
+    "hdi": "0.754"
+  },
+  {
+    "Country Name": "Euro area",
+    "Country Code": "EMU",
+    "population_total": "351125804.0",
+    "gdp_ppp_current_intl$": "22771766770718.438",
+    "trade_pct_gdp": "89.3066791704862",
+    "military_expenditure_pct_gdp": "1.6106924640560751"
+  },
+  {
+    "Country Name": "Eritrea",
+    "Country Code": "ERI",
+    "population_total": "3535603.0",
+    "gdp_ppp_current_intl$": "5224331270.247324",
+    "trade_pct_gdp": "47.39379011886839",
+    "military_expenditure_pct_gdp": "20.8657453093811",
+    "democracy_index": "1.97",
+    "hdi": "0.503"
+  },
+  {
+    "Country Name": "Spain",
+    "Country Code": "ESP",
+    "population_total": "48807137.0",
+    "gdp_ppp_current_intl$": "2778406789838.982",
+    "trade_pct_gdp": "70.30504006277852",
+    "military_expenditure_pct_gdp": "1.50901228462186",
+    "democracy_index": "8.13",
+    "hdi": "0.918"
+  },
+  {
+    "Country Name": "Estonia",
+    "Country Code": "EST",
+    "population_total": "1371986.0",
+    "gdp_ppp_current_intl$": "67685292223.143326",
+    "trade_pct_gdp": "151.98005592042597",
+    "military_expenditure_pct_gdp": "2.86665387374435",
+    "democracy_index": "8.13",
+    "hdi": "0.905"
+  },
+  {
+    "Country Name": "Ethiopia",
+    "Country Code": "ETH",
+    "population_total": "132059767.0",
+    "gdp_ppp_current_intl$": "432956582272.7379",
+    "trade_pct_gdp": "17.314789277453784",
+    "military_expenditure_pct_gdp": "0.788322879616043",
+    "democracy_index": "3.24",
+    "hdi": "0.497"
+  },
+  {
+    "Country Name": "European Union",
+    "Country Code": "EUU",
+    "population_total": "450185396.0",
+    "gdp_ppp_current_intl$": "28106710424589.39",
+    "trade_pct_gdp": "92.15428338023185",
+    "military_expenditure_pct_gdp": "1.7166289265596264"
+  },
+  {
+    "Country Name": "Fragile and conflict affected situations",
+    "Country Code": "FCS",
+    "population_total": "1083294896.0",
+    "gdp_ppp_current_intl$": "6126052026466.895",
+    "military_expenditure_pct_gdp": "6.804178299346387"
+  },
+  {
+    "Country Name": "Finland",
+    "Country Code": "FIN",
+    "population_total": "5637214.0",
+    "gdp_ppp_current_intl$": "361295951878.5055",
+    "trade_pct_gdp": "82.45762864826814",
+    "military_expenditure_pct_gdp": "2.42148617618712",
+    "democracy_index": "9.3",
+    "hdi": "0.948"
+  },
+  {
+    "Country Name": "Fiji",
+    "Country Code": "FJI",
+    "population_total": "928784.0",
+    "gdp_ppp_current_intl$": "14890504165.006811",
+    "trade_pct_gdp": "126.17917835313754",
+    "military_expenditure_pct_gdp": "1.31648157529348",
+    "democracy_index": "5.39",
+    "hdi": "0.731"
+  },
+  {
+    "Country Name": "France",
+    "Country Code": "FRA",
+    "population_total": "68516699.0",
+    "gdp_ppp_current_intl$": "4201559866305.392",
+    "trade_pct_gdp": "67.22297075681011",
+    "military_expenditure_pct_gdp": "2.05638673841337",
+    "democracy_index": "7.99",
+    "hdi": "0.92"
+  },
+  {
+    "Country Name": "Faroe Islands",
+    "Country Code": "FRO",
+    "population_total": "54719.0",
+    "gdp_ppp_current_intl$": "4255233982.576266",
+    "trade_pct_gdp": "114.33787884978994"
+  },
+  {
+    "Country Name": "Micronesia, Fed. Sts.",
+    "Country Code": "FSM",
+    "population_total": "113160.0",
+    "gdp_ppp_current_intl$": "491818179.321161",
+    "trade_pct_gdp": "96.6007114372874",
+    "hdi": "0.615"
+  },
+  {
+    "Country Name": "Gabon",
+    "Country Code": "GAB",
+    "population_total": "2538952.0",
+    "gdp_ppp_current_intl$": "54611645902.54021",
+    "trade_pct_gdp": "94.48025388712745",
+    "military_expenditure_pct_gdp": "1.15321981179163",
+    "democracy_index": "2.18",
+    "hdi": "0.733"
+  },
+  {
+    "Country Name": "United Kingdom",
+    "Country Code": "GBR",
+    "population_total": "69226000.0",
+    "gdp_ppp_current_intl$": "4196506479513.419",
+    "trade_pct_gdp": "62.40750139688368",
+    "military_expenditure_pct_gdp": "2.26487905161201",
+    "democracy_index": "8.34",
+    "hdi": "0.946"
+  },
+  {
+    "Country Name": "Georgia",
+    "Country Code": "GEO",
+    "population_total": "3673850.0",
+    "gdp_ppp_current_intl$": "104402557696.26404",
+    "trade_pct_gdp": "104.3353881142564",
+    "military_expenditure_pct_gdp": "1.68114376621765",
+    "democracy_index": "4.7",
+    "hdi": "0.844"
+  },
+  {
+    "Country Name": "Ghana",
+    "Country Code": "GHA",
+    "population_total": "34427414.0",
+    "gdp_ppp_current_intl$": "276354650562.2267",
+    "trade_pct_gdp": "69.35264916737798",
+    "military_expenditure_pct_gdp": "0.389157461523268",
+    "democracy_index": "6.24",
+    "hdi": "0.628"
+  },
+  {
+    "Country Name": "Gibraltar",
+    "Country Code": "GIB",
+    "population_total": "39329.0"
+  },
+  {
+    "Country Name": "Guinea",
+    "Country Code": "GIN",
+    "population_total": "14754785.0",
+    "gdp_ppp_current_intl$": "67563663630.91517",
+    "trade_pct_gdp": "100.0932025468453",
+    "military_expenditure_pct_gdp": "2.12575054080202",
+    "democracy_index": "2.04",
+    "hdi": "0.5"
+  },
+  {
+    "Country Name": "Gambia, The",
+    "Country Code": "GMB",
+    "population_total": "2759988.0",
+    "gdp_ppp_current_intl$": "9508853052.23079",
+    "trade_pct_gdp": "43.7388373481181",
+    "military_expenditure_pct_gdp": "0.5843058358149941",
+    "democracy_index": "4.47",
+    "hdi": "0.524"
+  },
+  {
+    "Country Name": "Guinea-Bissau",
+    "Country Code": "GNB",
+    "population_total": "2201352.0",
+    "gdp_ppp_current_intl$": "6720047738.842637",
+    "trade_pct_gdp": "40.66132172346956",
+    "military_expenditure_pct_gdp": "1.45545277154688",
+    "democracy_index": "2.03",
+    "hdi": "0.514"
+  },
+  {
+    "Country Name": "Equatorial Guinea",
+    "Country Code": "GNQ",
+    "population_total": "1892516.0",
+    "gdp_ppp_current_intl$": "33245374421.92124",
+    "trade_pct_gdp": "60.54145109759066",
+    "military_expenditure_pct_gdp": "1.59021698232115",
+    "democracy_index": "1.92",
+    "hdi": "0.674"
+  },
+  {
+    "Country Name": "Greece",
+    "Country Code": "GRC",
+    "population_total": "10388805.0",
+    "gdp_ppp_current_intl$": "457879263225.2494",
+    "trade_pct_gdp": "89.31658945004042",
+    "military_expenditure_pct_gdp": "3.23440755796675",
+    "democracy_index": "8.07",
+    "hdi": "0.908"
+  },
+  {
+    "Country Name": "Grenada",
+    "Country Code": "GRD",
+    "population_total": "117207.0",
+    "gdp_ppp_current_intl$": "2363736937.198312",
+    "hdi": "0.791"
+  },
+  {
+    "Country Name": "Greenland",
+    "Country Code": "GRL",
+    "population_total": "56836.0",
+    "gdp_ppp_current_intl$": "4483270596.148788",
+    "trade_pct_gdp": "91.89009943758208"
+  },
+  {
+    "Country Name": "Guatemala",
+    "Country Code": "GTM",
+    "population_total": "18406359.0",
+    "gdp_ppp_current_intl$": "264474716594.7989",
+    "trade_pct_gdp": "47.34419471060629",
+    "military_expenditure_pct_gdp": "0.411176407815766",
+    "democracy_index": "4.55",
+    "hdi": "0.662"
+  },
+  {
+    "Country Name": "Guam",
+    "Country Code": "GUM",
+    "population_total": "167777.0",
+    "trade_pct_gdp": "71.86685962373372"
+  },
+  {
+    "Country Name": "Guyana",
+    "Country Code": "GUY",
+    "population_total": "831087.0",
+    "gdp_ppp_current_intl$": "66408625273.32588",
+    "trade_pct_gdp": "194.35075731017207",
+    "military_expenditure_pct_gdp": "0.586516734323403",
+    "democracy_index": "6.11",
+    "hdi": "0.776"
+  },
+  {
+    "Country Name": "High income",
+    "Country Code": "HIC",
+    "population_total": "1417871275.0",
+    "gdp_ppp_current_intl$": "93981789013437.69",
+    "trade_pct_gdp": "61.442356004173305",
+    "military_expenditure_pct_gdp": "2.675296617103129"
+  },
+  {
+    "Country Name": "Hong Kong SAR, China",
+    "Country Code": "HKG",
+    "population_total": "7524100.0",
+    "gdp_ppp_current_intl$": "565930796570.7213",
+    "trade_pct_gdp": "359.40217683828706",
+    "democracy_index": "5.09",
+    "hdi": "0.955"
+  },
+  {
+    "Country Name": "Honduras",
+    "Country Code": "HND",
+    "population_total": "10825703.0",
+    "gdp_ppp_current_intl$": "81041415057.12355",
+    "trade_pct_gdp": "91.1101585856976",
+    "military_expenditure_pct_gdp": "1.56610457514466",
+    "democracy_index": "4.98",
+    "hdi": "0.645"
+  },
+  {
+    "Country Name": "Heavily indebted poor countries (HIPC)",
+    "Country Code": "HPC",
+    "population_total": "941413026.0",
+    "gdp_ppp_current_intl$": "3365117805576.3066",
+    "trade_pct_gdp": "51.71348855451572",
+    "military_expenditure_pct_gdp": "1.388820611694746"
+  },
+  {
+    "Country Name": "Croatia",
+    "Country Code": "HRV",
+    "population_total": "3866300.0",
+    "gdp_ppp_current_intl$": "187806348373.77048",
+    "trade_pct_gdp": "102.71621868931793",
+    "military_expenditure_pct_gdp": "1.7798921988481102",
+    "democracy_index": "6.5",
+    "hdi": "0.889"
+  },
+  {
+    "Country Name": "Haiti",
+    "Country Code": "HTI",
+    "population_total": "11772557.0",
+    "gdp_ppp_current_intl$": "37477453598.12562",
+    "trade_pct_gdp": "22.24788537261069",
+    "military_expenditure_pct_gdp": "0.0540928489525686",
+    "democracy_index": "2.74",
+    "hdi": "0.554"
+  },
+  {
+    "Country Name": "Hungary",
+    "Country Code": "HUN",
+    "population_total": "9562314.0",
+    "gdp_ppp_current_intl$": "455509390728.3133",
+    "trade_pct_gdp": "143.77751099949268",
+    "military_expenditure_pct_gdp": "2.12784318809435",
+    "democracy_index": "6.51",
+    "hdi": "0.87"
+  },
+  {
+    "Country Name": "IBRD only",
+    "Country Code": "IBD",
+    "population_total": "4979720059.0",
+    "gdp_ppp_current_intl$": "104569242727204.8",
+    "trade_pct_gdp": "48.78591812858015",
+    "military_expenditure_pct_gdp": "2.067506745773625"
+  },
+  {
+    "Country Name": "IDA & IBRD total",
+    "Country Code": "IBT",
+    "population_total": "6926456321.0",
+    "gdp_ppp_current_intl$": "114992500673139.2",
+    "trade_pct_gdp": "48.61215440032523",
+    "military_expenditure_pct_gdp": "2.0325765890605183"
+  },
+  {
+    "Country Name": "IDA total",
+    "Country Code": "IDA",
+    "population_total": "1946736262.0",
+    "gdp_ppp_current_intl$": "10444248919234.352",
+    "trade_pct_gdp": "48.83435224073459",
+    "military_expenditure_pct_gdp": "1.474455285011945"
+  },
+  {
+    "Country Name": "IDA blend",
+    "Country Code": "IDB",
+    "population_total": "676957651.0",
+    "gdp_ppp_current_intl$": "4525577495105.917",
+    "trade_pct_gdp": "29.953693339628234",
+    "military_expenditure_pct_gdp": "1.4691898859846293"
+  },
+  {
+    "Country Name": "Indonesia",
+    "Country Code": "IDN",
+    "population_total": "283487931.0",
+    "gdp_ppp_current_intl$": "4662887595103.259",
+    "trade_pct_gdp": "42.572647301834",
+    "military_expenditure_pct_gdp": "0.6775410698859811",
+    "democracy_index": "6.44",
+    "hdi": "0.728"
+  },
+  {
+    "Country Name": "IDA only",
+    "Country Code": "IDX",
+    "population_total": "1269778611.0",
+    "gdp_ppp_current_intl$": "5945737179491.795",
+    "trade_pct_gdp": "49.069570605187806",
+    "military_expenditure_pct_gdp": "1.478470592090766"
+  },
+  {
+    "Country Name": "Isle of Man",
+    "Country Code": "IMN",
+    "population_total": "84160.0"
+  },
+  {
+    "Country Name": "India",
+    "Country Code": "IND",
+    "population_total": "1450935791.0",
+    "gdp_ppp_current_intl$": "16190819718797.527",
+    "trade_pct_gdp": "44.6710926352422",
+    "military_expenditure_pct_gdp": "2.44305076476938",
+    "democracy_index": "7.29",
+    "hdi": "0.685"
+  },
+  {
+    "Country Name": "Ireland",
+    "Country Code": "IRL",
+    "population_total": "5380257.0",
+    "gdp_ppp_current_intl$": "705755786877.7823",
+    "trade_pct_gdp": "252.96292526245955",
+    "military_expenditure_pct_gdp": "0.216857882649718",
+    "democracy_index": "9.19",
+    "hdi": "0.949"
+  },
+  {
+    "Country Name": "Iran, Islamic Rep.",
+    "Country Code": "IRN",
+    "population_total": "91567738.0",
+    "gdp_ppp_current_intl$": "1688651728561.7026",
+    "trade_pct_gdp": "49.71489401087613",
+    "military_expenditure_pct_gdp": "2.06140369835077",
+    "democracy_index": "1.96",
+    "hdi": "0.799"
+  },
+  {
+    "Country Name": "Iraq",
+    "Country Code": "IRQ",
+    "population_total": "46042015.0",
+    "gdp_ppp_current_intl$": "665966378219.4736",
+    "trade_pct_gdp": "74.73642330752597",
+    "military_expenditure_pct_gdp": "2.07316277530662",
+    "democracy_index": "2.8",
+    "hdi": "0.695"
+  },
+  {
+    "Country Name": "Iceland",
+    "Country Code": "ISL",
+    "population_total": "404610.0",
+    "gdp_ppp_current_intl$": "31664276580.461742",
+    "trade_pct_gdp": "84.32187127884819",
+    "democracy_index": "9.38",
+    "hdi": "0.972"
+  },
+  {
+    "Country Name": "Israel",
+    "Country Code": "ISR",
+    "population_total": "9974400.0",
+    "gdp_ppp_current_intl$": "555481708109.9464",
+    "trade_pct_gdp": "54.452000296972734",
+    "military_expenditure_pct_gdp": "5.31741153367738",
+    "democracy_index": "7.8",
+    "hdi": "0.919"
+  },
+  {
+    "Country Name": "Italy",
+    "Country Code": "ITA",
+    "population_total": "58986023.0",
+    "gdp_ppp_current_intl$": "3589121540312.876",
+    "trade_pct_gdp": "63.17608906123471",
+    "military_expenditure_pct_gdp": "1.60578289334057",
+    "democracy_index": "7.58",
+    "hdi": "0.915"
+  },
+  {
+    "Country Name": "Jamaica",
+    "Country Code": "JAM",
+    "population_total": "2839175.0",
+    "gdp_ppp_current_intl$": "33111437467.44809",
+    "trade_pct_gdp": "90.11060763359936",
+    "military_expenditure_pct_gdp": "1.22435313075752",
+    "democracy_index": "6.74",
+    "hdi": "0.72"
+  },
+  {
+    "Country Name": "Jordan",
+    "Country Code": "JOR",
+    "population_total": "11552876.0",
+    "gdp_ppp_current_intl$": "125019343386.98958",
+    "trade_pct_gdp": "99.67944773657244",
+    "military_expenditure_pct_gdp": "4.9053784951802095",
+    "democracy_index": "3.28",
+    "hdi": "0.754"
+  },
+  {
+    "Country Name": "Japan",
+    "Country Code": "JPN",
+    "population_total": "123975371.0",
+    "gdp_ppp_current_intl$": "6407671854496.885",
+    "trade_pct_gdp": "45.15087956412477",
+    "military_expenditure_pct_gdp": "1.19606991540042",
+    "democracy_index": "8.48",
+    "hdi": "0.925"
+  },
+  {
+    "Country Name": "Kazakhstan",
+    "Country Code": "KAZ",
+    "population_total": "20592571.0",
+    "gdp_ppp_current_intl$": "840445512071.7347",
+    "trade_pct_gdp": "61.96238433295876",
+    "military_expenditure_pct_gdp": "0.480059037069259",
+    "democracy_index": "3.08",
+    "hdi": "0.837"
+  },
+  {
+    "Country Name": "Kenya",
+    "Country Code": "KEN",
+    "population_total": "56432944.0",
+    "gdp_ppp_current_intl$": "373549891750.1104",
+    "trade_pct_gdp": "30.29329812642673",
+    "military_expenditure_pct_gdp": "0.905816835053688",
+    "democracy_index": "5.05",
+    "hdi": "0.628"
+  },
+  {
+    "Country Name": "Kyrgyz Republic",
+    "Country Code": "KGZ",
+    "population_total": "7224614.0",
+    "gdp_ppp_current_intl$": "57864889798.002174",
+    "trade_pct_gdp": "132.37340391233607",
+    "military_expenditure_pct_gdp": "3.6219080711344",
+    "democracy_index": "3.52",
+    "hdi": "0.72"
+  },
+  {
+    "Country Name": "Cambodia",
+    "Country Code": "KHM",
+    "population_total": "17638801.0",
+    "gdp_ppp_current_intl$": "140580072943.65546",
+    "trade_pct_gdp": "143.44700970301105",
+    "military_expenditure_pct_gdp": "2.08968280637576",
+    "democracy_index": "2.94",
+    "hdi": "0.606"
+  },
+  {
+    "Country Name": "Kiribati",
+    "Country Code": "KIR",
+    "population_total": "134518.0",
+    "gdp_ppp_current_intl$": "498029490.1862561",
+    "trade_pct_gdp": "101.15087082052744",
+    "hdi": "0.644"
+  },
+  {
+    "Country Name": "St. Kitts and Nevis",
+    "Country Code": "KNA",
+    "population_total": "46843.0",
+    "gdp_ppp_current_intl$": "1665025419.5354173",
+    "hdi": "0.84"
+  },
+  {
+    "Country Name": "Korea, Rep.",
+    "Country Code": "KOR",
+    "population_total": "51751065.0",
+    "gdp_ppp_current_intl$": "2699603936744.0884",
+    "trade_pct_gdp": "87.9396791903733",
+    "military_expenditure_pct_gdp": "2.81204562667304",
+    "democracy_index": "7.75",
+    "hdi": "0.937"
+  },
+  {
+    "Country Name": "Kuwait",
+    "Country Code": "KWT",
+    "population_total": "4973861.0",
+    "gdp_ppp_current_intl$": "256830086700.11963",
+    "trade_pct_gdp": "90.91881021459392",
+    "military_expenditure_pct_gdp": "4.89572861288627",
+    "democracy_index": "2.78",
+    "hdi": "0.852"
+  },
+  {
+    "Country Name": "Latin America & Caribbean (excluding high income)",
+    "Country Code": "LAC",
+    "population_total": "594158638.0",
+    "gdp_ppp_current_intl$": "12898792336877.717",
+    "trade_pct_gdp": "47.39795647148562",
+    "military_expenditure_pct_gdp": "1.0032287132343731"
+  },
+  {
+    "Country Name": "Lao PDR",
+    "Country Code": "LAO",
+    "population_total": "7769819.0",
+    "gdp_ppp_current_intl$": "76049830544.99109",
+    "trade_pct_gdp": "75.09189092041244",
+    "military_expenditure_pct_gdp": "0.189895181780941",
+    "democracy_index": "1.71",
+    "hdi": "0.617"
+  },
+  {
+    "Country Name": "Lebanon",
+    "Country Code": "LBN",
+    "population_total": "5805962.0",
+    "gdp_ppp_current_intl$": "72600709791.52489",
+    "trade_pct_gdp": "104.20641006918235",
+    "military_expenditure_pct_gdp": "8.91317581679359",
+    "democracy_index": "3.56",
+    "hdi": "0.752"
+  },
+  {
+    "Country Name": "Liberia",
+    "Country Code": "LBR",
+    "population_total": "5612817.0",
+    "gdp_ppp_current_intl$": "10579672532.055183",
+    "military_expenditure_pct_gdp": "2.29838717994242",
+    "democracy_index": "5.57",
+    "hdi": "0.51"
+  },
+  {
+    "Country Name": "Libya",
+    "Country Code": "LBY",
+    "population_total": "7381023.0",
+    "gdp_ppp_current_intl$": "102993304184.4718",
+    "trade_pct_gdp": "133.9285539958519",
+    "military_expenditure_pct_gdp": "15.4795763013832",
+    "democracy_index": "2.31",
+    "hdi": "0.721"
+  },
+  {
+    "Country Name": "St. Lucia",
+    "Country Code": "LCA",
+    "population_total": "179744.0",
+    "gdp_ppp_current_intl$": "4955061818.049139",
+    "hdi": "0.748"
+  },
+  {
+    "Country Name": "Latin America & Caribbean",
+    "Country Code": "LCN",
+    "population_total": "662185950.0",
+    "gdp_ppp_current_intl$": "15102115104990.389",
+    "trade_pct_gdp": "49.18230154555543",
+    "military_expenditure_pct_gdp": "1.0476317764754524"
+  },
+  {
+    "Country Name": "Least developed countries: UN classification",
+    "Country Code": "LDC",
+    "population_total": "1187777591.0",
+    "gdp_ppp_current_intl$": "5219086833721.013",
+    "trade_pct_gdp": "48.09404538929056",
+    "military_expenditure_pct_gdp": "1.5320042540593293"
+  },
+  {
+    "Country Name": "Low income",
+    "Country Code": "LIC",
+    "population_total": "624608098.0",
+    "gdp_ppp_current_intl$": "1453722328302.2517",
+    "trade_pct_gdp": "55.09085448620989",
+    "military_expenditure_pct_gdp": "2.029725123541896"
+  },
+  {
+    "Country Name": "Liechtenstein",
+    "Country Code": "LIE",
+    "population_total": "40197.0",
+    "hdi": "0.938"
+  },
+  {
+    "Country Name": "Sri Lanka",
+    "Country Code": "LKA",
+    "population_total": "21916000.0",
+    "gdp_ppp_current_intl$": "342603896900.92706",
+    "trade_pct_gdp": "42.39750087110473",
+    "military_expenditure_pct_gdp": "1.64003079587098",
+    "democracy_index": "6.19",
+    "hdi": "0.776"
+  },
+  {
+    "Country Name": "Lower middle income",
+    "Country Code": "LMC",
+    "population_total": "3120983658.0",
+    "gdp_ppp_current_intl$": "31178041990377.68",
+    "trade_pct_gdp": "49.55452894784534",
+    "military_expenditure_pct_gdp": "2.010994967444637"
+  },
+  {
+    "Country Name": "Low & middle income",
+    "Country Code": "LMY",
+    "population_total": "6563719861.0",
+    "gdp_ppp_current_intl$": "102471817465738.64",
+    "trade_pct_gdp": "47.55768115584168",
+    "military_expenditure_pct_gdp": "1.7877236192332775"
+  },
+  {
+    "Country Name": "Lesotho",
+    "Country Code": "LSO",
+    "population_total": "2337423.0",
+    "gdp_ppp_current_intl$": "7008693666.191497",
+    "trade_pct_gdp": "141.51375553510815",
+    "military_expenditure_pct_gdp": "1.53626292759206",
+    "democracy_index": "6.06",
+    "hdi": "0.55"
+  },
+  {
+    "Country Name": "Late-demographic dividend",
+    "Country Code": "LTE",
+    "population_total": "2328890789.0",
+    "gdp_ppp_current_intl$": "65751600067396.81",
+    "trade_pct_gdp": "49.84756864496155",
+    "military_expenditure_pct_gdp": "2.023123063704477"
+  },
+  {
+    "Country Name": "Lithuania",
+    "Country Code": "LTU",
+    "population_total": "2888055.0",
+    "gdp_ppp_current_intl$": "157150520997.22015",
+    "trade_pct_gdp": "143.04839086337967",
+    "military_expenditure_pct_gdp": "2.71567834515769",
+    "democracy_index": "7.59",
+    "hdi": "0.895"
+  },
+  {
+    "Country Name": "Luxembourg",
+    "Country Code": "LUX",
+    "population_total": "677717.0",
+    "gdp_ppp_current_intl$": "102180990717.51224",
+    "trade_pct_gdp": "398.2279309595213",
+    "military_expenditure_pct_gdp": "0.7490545294635",
+    "democracy_index": "8.88",
+    "hdi": "0.922"
+  },
+  {
+    "Country Name": "Latvia",
+    "Country Code": "LVA",
+    "population_total": "1862441.0",
+    "gdp_ppp_current_intl$": "81699623488.00851",
+    "trade_pct_gdp": "131.8037768636733",
+    "military_expenditure_pct_gdp": "2.26754267524368",
+    "democracy_index": "7.66",
+    "hdi": "0.889"
+  },
+  {
+    "Country Name": "Macao SAR, China",
+    "Country Code": "MAC",
+    "population_total": "687000.0",
+    "gdp_ppp_current_intl$": "88119857289.24492",
+    "trade_pct_gdp": "135.12127027576528"
+  },
+  {
+    "Country Name": "St. Martin (French part)",
+    "Country Code": "MAF",
+    "population_total": "26129.0"
+  },
+  {
+    "Country Name": "Morocco",
+    "Country Code": "MAR",
+    "population_total": "38081173.0",
+    "gdp_ppp_current_intl$": "398513761721.1168",
+    "trade_pct_gdp": "95.75765493271103",
+    "military_expenditure_pct_gdp": "3.63868518644989",
+    "democracy_index": "4.97",
+    "hdi": "0.71"
+  },
+  {
+    "Country Name": "Monaco",
+    "Country Code": "MCO",
+    "population_total": "38631.0"
+  },
+  {
+    "Country Name": "Moldova",
+    "Country Code": "MDA",
+    "population_total": "2389275.0",
+    "gdp_ppp_current_intl$": "44718897540.02146",
+    "trade_pct_gdp": "88.66611542868309",
+    "military_expenditure_pct_gdp": "0.546678815870651",
+    "democracy_index": "6.04",
+    "hdi": "0.785"
+  },
+  {
+    "Country Name": "Madagascar",
+    "Country Code": "MDG",
+    "population_total": "31964956.0",
+    "gdp_ppp_current_intl$": "60207191110.52547",
+    "trade_pct_gdp": "54.97144868196835",
+    "military_expenditure_pct_gdp": "0.662961133220886",
+    "democracy_index": "5.33",
+    "hdi": "0.487"
+  },
+  {
+    "Country Name": "Maldives",
+    "Country Code": "MDV",
+    "population_total": "527799.0",
+    "gdp_ppp_current_intl$": "14009213969.332138",
+    "trade_pct_gdp": "150.03236994907965",
+    "hdi": "0.766"
+  },
+  {
+    "Country Name": "Middle East, North Africa, Afghanistan & Pakistan",
+    "Country Code": "MEA",
+    "population_total": "813118814.0",
+    "gdp_ppp_current_intl$": "13040733207632.86",
+    "trade_pct_gdp": "57.47306232046368",
+    "military_expenditure_pct_gdp": "4.6806250947084544"
+  },
+  {
+    "Country Name": "Mexico",
+    "Country Code": "MEX",
+    "population_total": "130861007.0",
+    "gdp_ppp_current_intl$": "3361570175385.558",
+    "trade_pct_gdp": "74.71159560586912",
+    "military_expenditure_pct_gdp": "0.656934513100098",
+    "democracy_index": "5.32",
+    "hdi": "0.789"
+  },
+  {
+    "Country Name": "Marshall Islands",
+    "Country Code": "MHL",
+    "population_total": "37548.0",
+    "gdp_ppp_current_intl$": "307823221.2689948",
+    "trade_pct_gdp": "110.17223293482452",
+    "hdi": "0.733"
+  },
+  {
+    "Country Name": "Middle income",
+    "Country Code": "MIC",
+    "population_total": "5939111763.0",
+    "gdp_ppp_current_intl$": "101046863183049.95",
+    "trade_pct_gdp": "47.46755284694667",
+    "military_expenditure_pct_gdp": "1.785803560303582"
+  },
+  {
+    "Country Name": "North Macedonia",
+    "Country Code": "MKD",
+    "population_total": "1792179.0",
+    "gdp_ppp_current_intl$": "47648721475.201",
+    "trade_pct_gdp": "138.47814059363162",
+    "military_expenditure_pct_gdp": "1.69895545621264",
+    "democracy_index": "6.28",
+    "hdi": "0.815"
+  },
+  {
+    "Country Name": "Mali",
+    "Country Code": "MLI",
+    "population_total": "24478595.0",
+    "gdp_ppp_current_intl$": "80991580402.85226",
+    "trade_pct_gdp": "50.900282866009285",
+    "military_expenditure_pct_gdp": "3.82768546750975",
+    "democracy_index": "2.4",
+    "hdi": "0.419"
+  },
+  {
+    "Country Name": "Malta",
+    "Country Code": "MLT",
+    "population_total": "574346.0",
+    "gdp_ppp_current_intl$": "38690348766.40935",
+    "trade_pct_gdp": "229.54828001491657",
+    "military_expenditure_pct_gdp": "0.5586440181308749",
+    "democracy_index": "7.93",
+    "hdi": "0.924"
+  },
+  {
+    "Country Name": "Myanmar",
+    "Country Code": "MMR",
+    "population_total": "54500091.0",
+    "gdp_ppp_current_intl$": "326862397165.7545",
+    "military_expenditure_pct_gdp": "3.7885823650653",
+    "democracy_index": "0.96",
+    "hdi": "0.609"
+  },
+  {
+    "Country Name": "Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",
+    "Country Code": "MNA",
+    "population_total": "741690916.0",
+    "gdp_ppp_current_intl$": "8181179977034.69",
+    "trade_pct_gdp": "58.118794660372295",
+    "military_expenditure_pct_gdp": "3.0098244563386327"
+  },
+  {
+    "Country Name": "Montenegro",
+    "Country Code": "MNE",
+    "population_total": "623831.0",
+    "gdp_ppp_current_intl$": "20823256231.779644",
+    "trade_pct_gdp": "112.4227919543629",
+    "military_expenditure_pct_gdp": "1.63424966016394",
+    "democracy_index": "6.73",
+    "hdi": "0.862"
+  },
+  {
+    "Country Name": "Mongolia",
+    "Country Code": "MNG",
+    "population_total": "3524788.0",
+    "gdp_ppp_current_intl$": "67315454531.64356",
+    "trade_pct_gdp": "138.89146309387505",
+    "military_expenditure_pct_gdp": "0.60144199287179",
+    "democracy_index": "6.53",
+    "hdi": "0.747"
+  },
+  {
+    "Country Name": "Northern Mariana Islands",
+    "Country Code": "MNP",
+    "population_total": "44278.0",
+    "trade_pct_gdp": "93.15693430656934"
+  },
+  {
+    "Country Name": "Mozambique",
+    "Country Code": "MOZ",
+    "population_total": "34631766.0",
+    "gdp_ppp_current_intl$": "58863787008.291695",
+    "trade_pct_gdp": "95.67181146162692",
+    "military_expenditure_pct_gdp": "1.73193242255364",
+    "democracy_index": "3.38",
+    "hdi": "0.493"
+  },
+  {
+    "Country Name": "Mauritania",
+    "Country Code": "MRT",
+    "population_total": "5169395.0",
+    "gdp_ppp_current_intl$": "37588430731.72669",
+    "trade_pct_gdp": "91.47057158735386",
+    "military_expenditure_pct_gdp": "2.54863177213623",
+    "democracy_index": "3.96",
+    "hdi": "0.563"
+  },
+  {
+    "Country Name": "Mauritius",
+    "Country Code": "MUS",
+    "population_total": "1259509.0",
+    "gdp_ppp_current_intl$": "39108930779.909775",
+    "trade_pct_gdp": "103.99759084058336",
+    "military_expenditure_pct_gdp": "0.152776819903266",
+    "democracy_index": "8.23",
+    "hdi": "0.806"
+  },
+  {
+    "Country Name": "Malawi",
+    "Country Code": "MWI",
+    "population_total": "21655286.0",
+    "gdp_ppp_current_intl$": "40266877390.59199",
+    "military_expenditure_pct_gdp": "1.01087787932399",
+    "democracy_index": "5.85",
+    "hdi": "0.517"
+  },
+  {
+    "Country Name": "Malaysia",
+    "Country Code": "MYS",
+    "population_total": "35557673.0",
+    "gdp_ppp_current_intl$": "1377111092000.8662",
+    "trade_pct_gdp": "137.36634120583136",
+    "military_expenditure_pct_gdp": "0.929671716200106",
+    "democracy_index": "7.11",
+    "hdi": "0.819"
+  },
+  {
+    "Country Name": "North America",
+    "Country Code": "NAC",
+    "population_total": "381464223.0",
+    "gdp_ppp_current_intl$": "31895507778448.44",
+    "trade_pct_gdp": "28.34523550636485",
+    "military_expenditure_pct_gdp": "3.2114292492250303"
+  },
+  {
+    "Country Name": "Namibia",
+    "Country Code": "NAM",
+    "population_total": "3030131.0",
+    "gdp_ppp_current_intl$": "35411935194.17708",
+    "trade_pct_gdp": "109.62850979853155",
+    "military_expenditure_pct_gdp": "2.73954354378882",
+    "democracy_index": "6.48",
+    "hdi": "0.665"
+  },
+  {
+    "Country Name": "New Caledonia",
+    "Country Code": "NCL",
+    "population_total": "292639.0",
+    "trade_pct_gdp": "58.92818262212835"
+  },
+  {
+    "Country Name": "Niger",
+    "Country Code": "NER",
+    "population_total": "27032412.0",
+    "gdp_ppp_current_intl$": "54470927080.19925",
+    "trade_pct_gdp": "51.96835093493676",
+    "military_expenditure_pct_gdp": "2.07013590428489",
+    "democracy_index": "2.26",
+    "hdi": "0.419"
+  },
+  {
+    "Country Name": "Nigeria",
+    "Country Code": "NGA",
+    "population_total": "232679478.0",
+    "gdp_ppp_current_intl$": "1498412309012.0586",
+    "trade_pct_gdp": "26.166512865529874",
+    "military_expenditure_pct_gdp": "0.807331105535844",
+    "democracy_index": "4.16",
+    "hdi": "0.56"
+  },
+  {
+    "Country Name": "Nicaragua",
+    "Country Code": "NIC",
+    "population_total": "6916140.0",
+    "gdp_ppp_current_intl$": "60231278859.82674",
+    "trade_pct_gdp": "98.52583771001588",
+    "military_expenditure_pct_gdp": "0.545988464666081",
+    "democracy_index": "2.09",
+    "hdi": "0.706"
+  },
+  {
+    "Country Name": "Netherlands",
+    "Country Code": "NLD",
+    "population_total": "17994237.0",
+    "gdp_ppp_current_intl$": "1515446904606.0105",
+    "trade_pct_gdp": "156.17366845513902",
+    "military_expenditure_pct_gdp": "1.53256247074407",
+    "democracy_index": "9.0",
+    "hdi": "0.955"
+  },
+  {
+    "Country Name": "Norway",
+    "Country Code": "NOR",
+    "population_total": "5572272.0",
+    "gdp_ppp_current_intl$": "562975486235.5125",
+    "trade_pct_gdp": "81.22214582611107",
+    "military_expenditure_pct_gdp": "1.60728115834895",
+    "democracy_index": "9.81",
+    "hdi": "0.97"
+  },
+  {
+    "Country Name": "Nepal",
+    "Country Code": "NPL",
+    "population_total": "29651054.0",
+    "gdp_ppp_current_intl$": "170096869228.54248",
+    "trade_pct_gdp": "40.52982267719089",
+    "military_expenditure_pct_gdp": "1.07668555382218",
+    "democracy_index": "4.6",
+    "hdi": "0.622"
+  },
+  {
+    "Country Name": "Nauru",
+    "Country Code": "NRU",
+    "population_total": "11947.0",
+    "gdp_ppp_current_intl$": "171162307.25924343",
+    "trade_pct_gdp": "158.1915969392316",
+    "hdi": "0.703"
+  },
+  {
+    "Country Name": "New Zealand",
+    "Country Code": "NZL",
+    "population_total": "5338500.0",
+    "gdp_ppp_current_intl$": "294116842342.8655",
+    "trade_pct_gdp": "50.40643167905132",
+    "military_expenditure_pct_gdp": "1.21763772932874",
+    "democracy_index": "9.61",
+    "hdi": "0.938"
+  },
+  {
+    "Country Name": "OECD members",
+    "Country Code": "OED",
+    "population_total": "1396914190.0",
+    "gdp_ppp_current_intl$": "85281691988887.48",
+    "trade_pct_gdp": "57.542350568291376",
+    "military_expenditure_pct_gdp": "2.421938803221864"
+  },
+  {
+    "Country Name": "Oman",
+    "Country Code": "OMN",
+    "population_total": "5281538.0",
+    "gdp_ppp_current_intl$": "220050947267.55103",
+    "trade_pct_gdp": "105.91670780437607",
+    "military_expenditure_pct_gdp": "5.404266351238031",
+    "democracy_index": "3.05",
+    "hdi": "0.858"
+  },
+  {
+    "Country Name": "Other small states",
+    "Country Code": "OSS",
+    "population_total": "12969162.0",
+    "gdp_ppp_current_intl$": "373102091426.71454",
+    "trade_pct_gdp": "149.24402920185665",
+    "military_expenditure_pct_gdp": "1.8333869687232136"
+  },
+  {
+    "Country Name": "Pakistan",
+    "Country Code": "PAK",
+    "population_total": "251269164.0",
+    "gdp_ppp_current_intl$": "1579724190316.8943",
+    "trade_pct_gdp": "27.478086483186598",
+    "military_expenditure_pct_gdp": "2.80148810180165",
+    "democracy_index": "2.84",
+    "hdi": "0.544"
+  },
+  {
+    "Country Name": "Panama",
+    "Country Code": "PAN",
+    "population_total": "4515577.0",
+    "gdp_ppp_current_intl$": "186966392940.24225",
+    "trade_pct_gdp": "89.53306838378505",
+    "military_expenditure_pct_gdp": "0.974136501313688",
+    "democracy_index": "6.84",
+    "hdi": "0.839"
+  },
+  {
+    "Country Name": "Peru",
+    "Country Code": "PER",
+    "population_total": "34217848.0",
+    "gdp_ppp_current_intl$": "609160441707.4075",
+    "trade_pct_gdp": "51.47588786781423",
+    "military_expenditure_pct_gdp": "1.12118291334721",
+    "democracy_index": "5.69",
+    "hdi": "0.794"
+  },
+  {
+    "Country Name": "Philippines",
+    "Country Code": "PHL",
+    "population_total": "115843670.0",
+    "gdp_ppp_current_intl$": "1366276178143.493",
+    "trade_pct_gdp": "65.88547252869684",
+    "military_expenditure_pct_gdp": "1.2494955502556602",
+    "democracy_index": "6.63",
+    "hdi": "0.72"
+  },
+  {
+    "Country Name": "Palau",
+    "Country Code": "PLW",
+    "population_total": "17695.0",
+    "gdp_ppp_current_intl$": "310784315.6186825",
+    "trade_pct_gdp": "87.73756206691078",
+    "hdi": "0.786"
+  },
+  {
+    "Country Name": "Papua New Guinea",
+    "Country Code": "PNG",
+    "population_total": "10576502.0",
+    "gdp_ppp_current_intl$": "51703809951.00702",
+    "trade_pct_gdp": "131.0829110162487",
+    "military_expenditure_pct_gdp": "0.313337015687892",
+    "democracy_index": "5.97",
+    "hdi": "0.576"
+  },
+  {
+    "Country Name": "Poland",
+    "Country Code": "POL",
+    "population_total": "36554707.0",
+    "gdp_ppp_current_intl$": "1841555375507.1448",
+    "trade_pct_gdp": "100.65014138165137",
+    "military_expenditure_pct_gdp": "3.8327285389822303",
+    "democracy_index": "7.4",
+    "hdi": "0.906"
+  },
+  {
+    "Country Name": "Pre-demographic dividend",
+    "Country Code": "PRE",
+    "population_total": "1105951788.0",
+    "gdp_ppp_current_intl$": "5129156669219.568",
+    "military_expenditure_pct_gdp": "1.4226672693509357"
+  },
+  {
+    "Country Name": "Puerto Rico (US)",
+    "Country Code": "PRI",
+    "population_total": "3203295.0",
+    "gdp_ppp_current_intl$": "160662993787.14386",
+    "trade_pct_gdp": "94.77525299682536"
+  },
+  {
+    "Country Name": "Korea, Dem. People's Rep.",
+    "Country Code": "PRK",
+    "population_total": "26498823.0",
+    "democracy_index": "1.08"
+  },
+  {
+    "Country Name": "Portugal",
+    "Country Code": "PRT",
+    "population_total": "10701636.0",
+    "gdp_ppp_current_intl$": "541680354802.5604",
+    "trade_pct_gdp": "91.1410312778576",
+    "military_expenditure_pct_gdp": "1.51929712406409",
+    "democracy_index": "8.08",
+    "hdi": "0.89"
+  },
+  {
+    "Country Name": "Paraguay",
+    "Country Code": "PRY",
+    "population_total": "6929153.0",
+    "gdp_ppp_current_intl$": "128353419878.21233",
+    "trade_pct_gdp": "76.831156543053",
+    "military_expenditure_pct_gdp": "0.906254792632729",
+    "democracy_index": "5.92",
+    "hdi": "0.756"
+  },
+  {
+    "Country Name": "West Bank and Gaza",
+    "Country Code": "PSE",
+    "population_total": "5289152.0",
+    "gdp_ppp_current_intl$": "23119472384.417236",
+    "trade_pct_gdp": "81.31368015695313",
+    "democracy_index": "3.44",
+    "hdi": "0.674"
+  },
+  {
+    "Country Name": "Pacific island small states",
+    "Country Code": "PSS",
+    "population_total": "2722467.0",
+    "gdp_ppp_current_intl$": "22872677718.03789",
+    "trade_pct_gdp": "117.24996749631651",
+    "military_expenditure_pct_gdp": "0.1883239171374759"
+  },
+  {
+    "Country Name": "Post-demographic dividend",
+    "Country Code": "PST",
+    "population_total": "1128430188.0",
+    "gdp_ppp_current_intl$": "75875168460382.22",
+    "trade_pct_gdp": "59.75889265286536",
+    "military_expenditure_pct_gdp": "2.572031846952727"
+  },
+  {
+    "Country Name": "French Polynesia",
+    "Country Code": "PYF",
+    "population_total": "281807.0",
+    "trade_pct_gdp": "68.70809252236835"
+  },
+  {
+    "Country Name": "Qatar",
+    "Country Code": "QAT",
+    "population_total": "2857822.0",
+    "gdp_ppp_current_intl$": "360400243355.5731",
+    "trade_pct_gdp": "100.21364719961772",
+    "military_expenditure_pct_gdp": "6.962166118537249",
+    "democracy_index": "3.17",
+    "hdi": "0.886"
+  },
+  {
+    "Country Name": "Romania",
+    "Country Code": "ROU",
+    "population_total": "19069340.0",
+    "gdp_ppp_current_intl$": "928908990262.028",
+    "trade_pct_gdp": "77.2918515027171",
+    "military_expenditure_pct_gdp": "1.6138952949923802",
+    "democracy_index": "5.99",
+    "hdi": "0.845"
+  },
+  {
+    "Country Name": "Russian Federation",
+    "Country Code": "RUS",
+    "population_total": "143533851.0",
+    "gdp_ppp_current_intl$": "6921249292202.154",
+    "trade_pct_gdp": "39.508164766039634",
+    "military_expenditure_pct_gdp": "5.86418887229231",
+    "democracy_index": "2.03",
+    "hdi": "0.832"
+  },
+  {
+    "Country Name": "Rwanda",
+    "Country Code": "RWA",
+    "population_total": "14256567.0",
+    "gdp_ppp_current_intl$": "52904129982.20523",
+    "trade_pct_gdp": "69.95441356805613",
+    "military_expenditure_pct_gdp": "1.26615243356263",
+    "democracy_index": "3.34",
+    "hdi": "0.578"
+  },
+  {
+    "Country Name": "South Asia",
+    "Country Code": "SAS",
+    "population_total": "1677384532.0",
+    "gdp_ppp_current_intl$": "18405750941967.57",
+    "trade_pct_gdp": "43.12323600408097",
+    "military_expenditure_pct_gdp": "2.265806730084611"
+  },
+  {
+    "Country Name": "Saudi Arabia",
+    "Country Code": "SAU",
+    "population_total": "35300280.0",
+    "gdp_ppp_current_intl$": "2514913068784.3945",
+    "trade_pct_gdp": "54.80448471869877",
+    "military_expenditure_pct_gdp": "7.086386302249879",
+    "democracy_index": "2.08",
+    "hdi": "0.9"
+  },
+  {
+    "Country Name": "Sudan",
+    "Country Code": "SDN",
+    "population_total": "50448963.0",
+    "gdp_ppp_current_intl$": "107325139957.42673",
+    "trade_pct_gdp": "2.461522858350236",
+    "military_expenditure_pct_gdp": "0.9159187570581432",
+    "democracy_index": "1.46",
+    "hdi": "0.511"
+  },
+  {
+    "Country Name": "Senegal",
+    "Country Code": "SEN",
+    "population_total": "18501984.0",
+    "gdp_ppp_current_intl$": "94552533446.06404",
+    "trade_pct_gdp": "71.1988886117514",
+    "military_expenditure_pct_gdp": "1.46776048919388",
+    "democracy_index": "5.93",
+    "hdi": "0.53"
+  },
+  {
+    "Country Name": "Singapore",
+    "Country Code": "SGP",
+    "population_total": "6036860.0",
+    "gdp_ppp_current_intl$": "909690217412.8812",
+    "trade_pct_gdp": "322.3714279347164",
+    "military_expenditure_pct_gdp": "2.65866567626877",
+    "democracy_index": "6.18",
+    "hdi": "0.946"
+  },
+  {
+    "Country Name": "Solomon Islands",
+    "Country Code": "SLB",
+    "population_total": "819198.0",
+    "gdp_ppp_current_intl$": "2353128856.82257",
+    "trade_pct_gdp": "78.03593095620181",
+    "hdi": "0.584"
+  },
+  {
+    "Country Name": "Sierra Leone",
+    "Country Code": "SLE",
+    "population_total": "8642022.0",
+    "gdp_ppp_current_intl$": "30381570304.572803",
+    "trade_pct_gdp": "64.47779689923524",
+    "military_expenditure_pct_gdp": "0.5604373470119429",
+    "democracy_index": "4.32",
+    "hdi": "0.467"
+  },
+  {
+    "Country Name": "El Salvador",
+    "Country Code": "SLV",
+    "population_total": "6338193.0",
+    "gdp_ppp_current_intl$": "84069963659.78392",
+    "trade_pct_gdp": "84.6596461582312",
+    "military_expenditure_pct_gdp": "1.28386195281933",
+    "democracy_index": "4.61",
+    "hdi": "0.678"
+  },
+  {
+    "Country Name": "San Marino",
+    "Country Code": "SMR",
+    "population_total": "33977.0",
+    "gdp_ppp_current_intl$": "2563404991.8788424",
+    "trade_pct_gdp": "370.4360718134137",
+    "hdi": "0.915"
+  },
+  {
+    "Country Name": "Somalia",
+    "Country Code": "SOM",
+    "population_total": "19009151.0",
+    "gdp_ppp_current_intl$": "30429157389.60728",
+    "trade_pct_gdp": "94.36029410877192",
+    "military_expenditure_pct_gdp": "1.52999213555444",
+    "hdi": "0.404"
+  },
+  {
+    "Country Name": "Serbia",
+    "Country Code": "SRB",
+    "population_total": "6587202.0",
+    "gdp_ppp_current_intl$": "209915940223.31967",
+    "trade_pct_gdp": "111.46095841234704",
+    "military_expenditure_pct_gdp": "2.85324638561608",
+    "democracy_index": "6.26",
+    "hdi": "0.833"
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (excluding high income)",
+    "Country Code": "SSA",
+    "population_total": "1158877573.0",
+    "gdp_ppp_current_intl$": "5952680412098.552",
+    "trade_pct_gdp": "59.97398050319703",
+    "military_expenditure_pct_gdp": "1.110644380667722"
+  },
+  {
+    "Country Name": "South Sudan",
+    "Country Code": "SSD",
+    "population_total": "11943408.0",
+    "gdp_ppp_current_intl$": "12827976279.327291",
+    "trade_pct_gdp": "65.55134918450028",
+    "military_expenditure_pct_gdp": "6.25617734436131",
+    "hdi": "0.388"
+  },
+  {
+    "Country Name": "Sub-Saharan Africa",
+    "Country Code": "SSF",
+    "population_total": "1291058694.0",
+    "gdp_ppp_current_intl$": "6390448032629.794",
+    "trade_pct_gdp": "58.09813579469271",
+    "military_expenditure_pct_gdp": "1.111382372896056"
+  },
+  {
+    "Country Name": "Small states",
+    "Country Code": "SST",
+    "population_total": "20230689.0",
+    "gdp_ppp_current_intl$": "571199477831.8501",
+    "trade_pct_gdp": "140.40072950225704",
+    "military_expenditure_pct_gdp": "1.5729635024746451"
+  },
+  {
+    "Country Name": "Sao Tome and Principe",
+    "Country Code": "STP",
+    "population_total": "235536.0",
+    "gdp_ppp_current_intl$": "1467273474.7186322",
+    "hdi": "0.637"
+  },
+  {
+    "Country Name": "Suriname",
+    "Country Code": "SUR",
+    "population_total": "634431.0",
+    "gdp_ppp_current_intl$": "13999818895.38173",
+    "trade_pct_gdp": "90.9613941465855",
+    "democracy_index": "6.79",
+    "hdi": "0.722"
+  },
+  {
+    "Country Name": "Slovak Republic",
+    "Country Code": "SVK",
+    "population_total": "5422069.0",
+    "gdp_ppp_current_intl$": "255817817489.38043",
+    "trade_pct_gdp": "170.24443570757404",
+    "military_expenditure_pct_gdp": "2.01653474902229",
+    "democracy_index": "7.21",
+    "hdi": "0.88"
+  },
+  {
+    "Country Name": "Slovenia",
+    "Country Code": "SVN",
+    "population_total": "2126324.0",
+    "gdp_ppp_current_intl$": "120202434629.02583",
+    "trade_pct_gdp": "156.48245698678633",
+    "military_expenditure_pct_gdp": "1.33665006488574",
+    "democracy_index": "7.82",
+    "hdi": "0.931"
+  },
+  {
+    "Country Name": "Sweden",
+    "Country Code": "SWE",
+    "population_total": "10569709.0",
+    "gdp_ppp_current_intl$": "750771294152.1144",
+    "trade_pct_gdp": "104.81099427173592",
+    "military_expenditure_pct_gdp": "1.47341062942458",
+    "democracy_index": "9.39",
+    "hdi": "0.959"
+  },
+  {
+    "Country Name": "Eswatini",
+    "Country Code": "SWZ",
+    "population_total": "1242822.0",
+    "gdp_ppp_current_intl$": "14645762517.366098",
+    "trade_pct_gdp": "100.09323637196644",
+    "military_expenditure_pct_gdp": "1.56832126015003",
+    "democracy_index": "2.6",
+    "hdi": "0.695"
+  },
+  {
+    "Country Name": "Sint Maarten (Dutch part)",
+    "Country Code": "SXM",
+    "population_total": "43350.0",
+    "gdp_ppp_current_intl$": "2257875752.0746284"
+  },
+  {
+    "Country Name": "Seychelles",
+    "Country Code": "SYC",
+    "population_total": "121354.0",
+    "gdp_ppp_current_intl$": "4033634641.491586",
+    "trade_pct_gdp": "188.3691852974113",
+    "military_expenditure_pct_gdp": "1.70691302906347",
+    "hdi": "0.848"
+  },
+  {
+    "Country Name": "Syrian Arab Republic",
+    "Country Code": "SYR",
+    "population_total": "24672760.0",
+    "gdp_ppp_current_intl$": "109716574910.85344",
+    "trade_pct_gdp": "35.60946807999561",
+    "military_expenditure_pct_gdp": "4.05614173609585",
+    "democracy_index": "1.32",
+    "hdi": "0.564"
+  },
+  {
+    "Country Name": "Turks and Caicos Islands",
+    "Country Code": "TCA",
+    "population_total": "46535.0",
+    "gdp_ppp_current_intl$": "1766207429.4950433"
+  },
+  {
+    "Country Name": "Chad",
+    "Country Code": "TCD",
+    "population_total": "20299123.0",
+    "gdp_ppp_current_intl$": "60124620441.280846",
+    "trade_pct_gdp": "45.362629821362695",
+    "military_expenditure_pct_gdp": "2.90849870783417",
+    "democracy_index": "1.89",
+    "hdi": "0.416"
+  },
+  {
+    "Country Name": "East Asia & Pacific (IDA & IBRD countries)",
+    "Country Code": "TEA",
+    "population_total": "2114653077.0",
+    "gdp_ppp_current_intl$": "49713944568728.57",
+    "trade_pct_gdp": "44.12108525296114",
+    "military_expenditure_pct_gdp": "1.5710954043102914"
+  },
+  {
+    "Country Name": "Europe & Central Asia (IDA & IBRD countries)",
+    "Country Code": "TEC",
+    "population_total": "459954508.0",
+    "gdp_ppp_current_intl$": "17314186598022.934",
+    "trade_pct_gdp": "61.085765140504",
+    "military_expenditure_pct_gdp": "4.763391584771113"
+  },
+  {
+    "Country Name": "Togo",
+    "Country Code": "TGO",
+    "population_total": "9515236.0",
+    "gdp_ppp_current_intl$": "30820719452.20569",
+    "trade_pct_gdp": "62.47424365959111",
+    "military_expenditure_pct_gdp": "4.0148128777457295",
+    "democracy_index": "2.99",
+    "hdi": "0.571"
+  },
+  {
+    "Country Name": "Thailand",
+    "Country Code": "THA",
+    "population_total": "71668011.0",
+    "gdp_ppp_current_intl$": "1770790698282.565",
+    "trade_pct_gdp": "136.77474509277076",
+    "military_expenditure_pct_gdp": "1.16558115305502",
+    "democracy_index": "6.27",
+    "hdi": "0.798"
+  },
+  {
+    "Country Name": "Tajikistan",
+    "Country Code": "TJK",
+    "population_total": "10590927.0",
+    "gdp_ppp_current_intl$": "57254340774.03449",
+    "trade_pct_gdp": "65.63470103673535",
+    "military_expenditure_pct_gdp": "1.22399854323499",
+    "democracy_index": "1.83",
+    "hdi": "0.691"
+  },
+  {
+    "Country Name": "Turkmenistan",
+    "Country Code": "TKM",
+    "population_total": "7494498.0",
+    "gdp_ppp_current_intl$": "152946223418.88663",
+    "trade_pct_gdp": "34.09927380172572",
+    "military_expenditure_pct_gdp": "2.9018747506980502",
+    "democracy_index": "1.66",
+    "hdi": "0.764"
+  },
+  {
+    "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
+    "Country Code": "TLA",
+    "population_total": "647003746.0",
+    "gdp_ppp_current_intl$": "14677672566938.6",
+    "trade_pct_gdp": "48.51576685555057",
+    "military_expenditure_pct_gdp": "1.0476317764754526"
+  },
+  {
+    "Country Name": "Timor-Leste",
+    "Country Code": "TLS",
+    "population_total": "1400638.0",
+    "gdp_ppp_current_intl$": "6664784682.185324",
+    "trade_pct_gdp": "89.30059136117615",
+    "military_expenditure_pct_gdp": "1.26187058679104",
+    "democracy_index": "7.03",
+    "hdi": "0.634"
+  },
+  {
+    "Country Name": "Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",
+    "Country Code": "TMN",
+    "population_total": "736401764.0",
+    "gdp_ppp_current_intl$": "8159290037249.512",
+    "trade_pct_gdp": "57.87884808727304",
+    "military_expenditure_pct_gdp": "3.0098244563386336"
+  },
+  {
+    "Country Name": "Tonga",
+    "Country Code": "TON",
+    "population_total": "104175.0",
+    "gdp_ppp_current_intl$": "821375658.6733227",
+    "trade_pct_gdp": "94.13715044318896",
+    "hdi": "0.769"
+  },
+  {
+    "Country Name": "South Asia (IDA & IBRD)",
+    "Country Code": "TSA",
+    "population_total": "1677384532.0",
+    "gdp_ppp_current_intl$": "18405750941967.57",
+    "trade_pct_gdp": "43.12323600408097",
+    "military_expenditure_pct_gdp": "2.265806730084611"
+  },
+  {
+    "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
+    "Country Code": "TSS",
+    "population_total": "1291058694.0",
+    "gdp_ppp_current_intl$": "6390448032629.793",
+    "trade_pct_gdp": "58.098135794692695",
+    "military_expenditure_pct_gdp": "1.111382372896056"
+  },
+  {
+    "Country Name": "Trinidad and Tobago",
+    "Country Code": "TTO",
+    "population_total": "1368333.0",
+    "gdp_ppp_current_intl$": "49288895345.51968",
+    "military_expenditure_pct_gdp": "0.886002727343586",
+    "democracy_index": "7.09",
+    "hdi": "0.807"
+  },
+  {
+    "Country Name": "Tunisia",
+    "Country Code": "TUN",
+    "population_total": "12277109.0",
+    "gdp_ppp_current_intl$": "177419626655.9212",
+    "trade_pct_gdp": "104.98956246578474",
+    "military_expenditure_pct_gdp": "2.3578511004509",
+    "democracy_index": "4.71",
+    "hdi": "0.746"
+  },
+  {
+    "Country Name": "Turkiye",
+    "Country Code": "TUR",
+    "population_total": "85518661.0",
+    "gdp_ppp_current_intl$": "3757012846422.0137",
+    "trade_pct_gdp": "55.82178445272189",
+    "military_expenditure_pct_gdp": "1.5026648858863",
+    "democracy_index": "4.26",
+    "hdi": "0.853"
+  },
+  {
+    "Country Name": "Tuvalu",
+    "Country Code": "TUV",
+    "population_total": "9646.0",
+    "gdp_ppp_current_intl$": "60378318.77760427",
+    "hdi": "0.689"
+  },
+  {
+    "Country Name": "Tanzania",
+    "Country Code": "TZA",
+    "population_total": "68560157.0",
+    "gdp_ppp_current_intl$": "280425918025.0248",
+    "trade_pct_gdp": "41.513120720824354",
+    "military_expenditure_pct_gdp": "1.15169397926637",
+    "democracy_index": "5.2",
+    "hdi": "0.555"
+  },
+  {
+    "Country Name": "Uganda",
+    "Country Code": "UGA",
+    "population_total": "50015092.0",
+    "gdp_ppp_current_intl$": "163837595822.047",
+    "trade_pct_gdp": "41.46828355303799",
+    "military_expenditure_pct_gdp": "1.98205631258922",
+    "democracy_index": "4.49",
+    "hdi": "0.582"
+  },
+  {
+    "Country Name": "Ukraine",
+    "Country Code": "UKR",
+    "population_total": "37860221.0",
+    "gdp_ppp_current_intl$": "656527758167.9938",
+    "trade_pct_gdp": "77.75301133005138",
+    "military_expenditure_pct_gdp": "36.6531099379099",
+    "democracy_index": "4.9",
+    "hdi": "0.779"
+  },
+  {
+    "Country Name": "Upper middle income",
+    "Country Code": "UMC",
+    "population_total": "2818128105.0",
+    "gdp_ppp_current_intl$": "69824831533404.914",
+    "trade_pct_gdp": "47.02558527857327",
+    "military_expenditure_pct_gdp": "1.7329580403254592"
+  },
+  {
+    "Country Name": "Uruguay",
+    "Country Code": "URY",
+    "population_total": "3386588.0",
+    "gdp_ppp_current_intl$": "123332335624.21902",
+    "trade_pct_gdp": "52.46491678563794",
+    "military_expenditure_pct_gdp": "2.00012218742627",
+    "democracy_index": "8.67",
+    "hdi": "0.862"
+  },
+  {
+    "Country Name": "United States",
+    "Country Code": "USA",
+    "population_total": "340110988.0",
+    "gdp_ppp_current_intl$": "29184890000000.1",
+    "trade_pct_gdp": "24.88799169707338",
+    "military_expenditure_pct_gdp": "3.3618364855807403",
+    "democracy_index": "7.85",
+    "hdi": "0.938"
+  },
+  {
+    "Country Name": "Uzbekistan",
+    "Country Code": "UZB",
+    "population_total": "36361859.0",
+    "gdp_ppp_current_intl$": "431926264607.8867",
+    "trade_pct_gdp": "60.72744038130208",
+    "military_expenditure_pct_gdp": "3.5554825523167",
+    "democracy_index": "2.1",
+    "hdi": "0.74"
+  },
+  {
+    "Country Name": "St. Vincent and the Grenadines",
+    "Country Code": "VCT",
+    "population_total": "100616.0",
+    "gdp_ppp_current_intl$": "2140311608.058118",
+    "hdi": "0.798"
+  },
+  {
+    "Country Name": "Venezuela, RB",
+    "Country Code": "VEN",
+    "population_total": "28405543.0",
+    "gdp_ppp_current_intl$": "506339379526.1178",
+    "trade_pct_gdp": "48.09081352556456",
+    "military_expenditure_pct_gdp": "0.5007044976434459",
+    "democracy_index": "2.25",
+    "hdi": "0.709"
+  },
+  {
+    "Country Name": "British Virgin Islands",
+    "Country Code": "VGB",
+    "population_total": "39471.0"
+  },
+  {
+    "Country Name": "Virgin Islands (U.S.)",
+    "Country Code": "VIR",
+    "population_total": "104377.0",
+    "gdp_ppp_current_intl$": "5248832928.552563",
+    "trade_pct_gdp": "205.62928082191783"
+  },
+  {
+    "Country Name": "Viet Nam",
+    "Country Code": "VNM",
+    "population_total": "100987686.0",
+    "gdp_ppp_current_intl$": "1654734391083.385",
+    "trade_pct_gdp": "164.8180712698939",
+    "military_expenditure_pct_gdp": "1.8065013887431096",
+    "democracy_index": "2.62",
+    "hdi": "0.766"
+  },
+  {
+    "Country Name": "Vanuatu",
+    "Country Code": "VUT",
+    "population_total": "327777.0",
+    "gdp_ppp_current_intl$": "1180786247.7698858",
+    "trade_pct_gdp": "65.10387753385483",
+    "hdi": "0.621"
+  },
+  {
+    "Country Name": "World",
+    "Country Code": "WLD",
+    "population_total": "8142056446.0",
+    "gdp_ppp_current_intl$": "197428072206263.5",
+    "trade_pct_gdp": "56.559581214032974",
+    "military_expenditure_pct_gdp": "2.360407124275006"
+  },
+  {
+    "Country Name": "Samoa",
+    "Country Code": "WSM",
+    "population_total": "218019.0",
+    "gdp_ppp_current_intl$": "1708678659.258563",
+    "trade_pct_gdp": "83.13166285655367",
+    "hdi": "0.708"
+  },
+  {
+    "Country Name": "Kosovo",
+    "Country Code": "XKX",
+    "population_total": "1527324.0",
+    "gdp_ppp_current_intl$": "28438508914.523453",
+    "trade_pct_gdp": "114.26039260969978",
+    "military_expenditure_pct_gdp": "1.2541803572726"
+  },
+  {
+    "Country Name": "Yemen, Rep.",
+    "Country Code": "YEM",
+    "population_total": "40583164.0",
+    "gdp_ppp_current_intl$": "92755605479.92072",
+    "trade_pct_gdp": "56.07782272095153",
+    "military_expenditure_pct_gdp": "3.9668910882450303",
+    "democracy_index": "1.95",
+    "hdi": "0.47"
+  },
+  {
+    "Country Name": "South Africa",
+    "Country Code": "ZAF",
+    "population_total": "64007187.0",
+    "gdp_ppp_current_intl$": "989390398251.4016",
+    "trade_pct_gdp": "61.70259805757591",
+    "military_expenditure_pct_gdp": "0.733136724666569",
+    "democracy_index": "7.16",
+    "hdi": "0.741"
+  },
+  {
+    "Country Name": "Zambia",
+    "Country Code": "ZMB",
+    "population_total": "21314956.0",
+    "gdp_ppp_current_intl$": "90033312819.57716",
+    "trade_pct_gdp": "78.24188704514849",
+    "military_expenditure_pct_gdp": "1.30300202080578",
+    "democracy_index": "5.73",
+    "hdi": "0.595"
+  },
+  {
+    "Country Name": "Zimbabwe",
+    "Country Code": "ZWE",
+    "population_total": "16634373.0",
+    "gdp_ppp_current_intl$": "65234986601.47217",
+    "trade_pct_gdp": "52.673013493774576",
+    "military_expenditure_pct_gdp": "0.248808250152488",
+    "democracy_index": "2.98",
+    "hdi": "0.598"
+  }
+]
