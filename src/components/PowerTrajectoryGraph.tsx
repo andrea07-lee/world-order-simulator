@@ -4,7 +4,7 @@ import { useMemo } from 'react';
 import { realWorldScores } from '@/data/realWorldScores';
 import { calculateTrajectoryIndex } from '@/lib/trajectory'; // 0~100 반환
 import { parseValue } from '@/lib/parser';
-import { countryInfo } from '@/data/countryInfo';
+import type { CountryInfoType } from '@/data/countryInfo';
 
 // ✅ 타입 정의
 type Point = {
@@ -15,6 +15,7 @@ type Point = {
 };
 
 type Props = {
+  country: CountryInfoType; // ✅ 선택된 국가 데이터
   points?: Point[];
   width?: number;
   height?: number;
@@ -22,12 +23,13 @@ type Props = {
 
 // ✅ 국가 파워 궤적 그래프
 export default function PowerTrajectoryGraph({
+  country,
   points = [],
   width = 900,
   height = 400,
 }: Props) {
-  // 국가 데이터 선택
-  const raw = countryInfo['South Korea'];
+  // ✅ 전달받은 국가 데이터 사용 (이제 고정된 South Korea 삭제)
+  const raw = country;
 
   // ✅ 국가 데이터 파싱 및 정규화
   const parsed = useMemo(
@@ -45,7 +47,7 @@ export default function PowerTrajectoryGraph({
   );
 
   // ✅ 점수 계산 (0~1 스케일)
-  const score = calculateTrajectoryIndex(parsed) / 100;
+  const score = useMemo(() => calculateTrajectoryIndex(parsed) / 100, [parsed]);
 
   // ✅ 곡선 기본 크기 설정
   const curveWidth = 300;
@@ -56,11 +58,11 @@ export default function PowerTrajectoryGraph({
   for (let x = 0; x <= curveWidth; x += 5) {
     const ratio = x / curveWidth; // 0~1
     const y = 0.5 * (1 - Math.cos(ratio * 2 * Math.PI)) * curveHeight;
-    points.push({ x, y: curveHeight - y }); // SVG는 아래로 갈수록 y 증가
+    curvepoints.push({ x, y: curveHeight - y }); // SVG는 아래로 갈수록 y 증가
   }
 
   // ✅ SVG path 생성
-  const path = points
+  const path = curvepoints
     .map((p, i) => `${i === 0 ? 'M' : 'L'} ${p.x.toFixed(2)} ${p.y.toFixed(2)}`)
     .join(' ');
 
@@ -80,7 +82,7 @@ export default function PowerTrajectoryGraph({
   return (
     <div className="w-full max-w-md p-4 border rounded bg-white shadow">
       <h3 className="text-lg font-semibold mb-2 text-gray-800">
-        국가 파워 궤적 곡선
+        {country.name} Power Trajectory Curve
       </h3>
 
       <svg width={curveWidth} height={curveHeight + 30}>
@@ -93,7 +95,7 @@ export default function PowerTrajectoryGraph({
           stroke="#ddd"
           strokeWidth={1}
         />
-        {/* y축 (선택적) */}
+        {/* y축 */}
         <line
           x1={curveWidth / 2}
           y1={0}

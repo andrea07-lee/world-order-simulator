@@ -185,6 +185,7 @@ export default function Home() {
 
   // ---- 선택한 국가 ----
   const handleCountrySelect = (name: string) => {
+    console.log('🗺️ 클릭한 나라 이름:', name);
     setSelectedCountry(name);
     const selected = typedCountryInfo[name];
     if (selected) {
@@ -294,15 +295,18 @@ export default function Home() {
                 {countryData && <CountryInfoPanel country={countryData} />}
               </div>
               <div className="col-span-6 overflow-y-auto space-y-6 px-4">
-                <PowerTrajectoryGraph width={900} height={400} />
+              {countryData &&
+                <PowerTrajectoryGraph country={countryData} width={900} height={400} />}
                 {countryData && <RadarChart country={countryData} />}
                 <div className="rounded-xl border bg-white">
+                 {countryData && 
                   <DiplomacySpiderMap
                     className="p-2"
                     showUploader={true}
                     maxWidth={900}
-                    countryCode={selectedCountry || 'KOR'}
-                  />
+                    country={countryData}
+                    countryCode={countryData.iso}
+                  />}
                 </div>
                 <button
                   onClick={handleSimulate}
@@ -330,15 +334,18 @@ export default function Home() {
                 transition={{ duration: 0.5 }}
               >
                 <div className="space-y-6">
-                  <PowerTrajectoryGraph width={900} height={400} />
+                  {countryData &&
+                  <PowerTrajectoryGraph country={countryData} width={900} height={400} />}
                   {countryData && <RadarChart country={countryData} />}
                   <div className="rounded-xl border bg-white">
-                    <DiplomacySpiderMap
+                   {countryData && 
+                    <DiplomacySpiderMap 
                       className="p-2"
                       showUploader={true}
                       maxWidth={900}
-                      countryCode={selectedCountry || 'KOR'}
-                    />
+                      countryCode={countryData.iso || 'KOR'}
+                      country={countryData}
+                    />}
                   </div>
                 </div>
                 <button
