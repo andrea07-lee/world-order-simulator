@@ -290,7 +290,7 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
         {/* 색상 스펙트럼 */}
         <div className="absolute bottom-3 left-1/2 w-[70%] -translate-x-1/2 select-none">
           <div className="flex items-center gap-2">
-            <div className="text-xs text-neutral-500">약함</div>
+            <div className="text-xs text-neutral-500">Weak</div>
             <div
               className="h-2 flex-1 rounded-full"
               style={{
@@ -298,7 +298,7 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
                   'linear-gradient(90deg,hsl(220 85% 50%) 0%,hsl(110 85% 50%) 50%,hsl(0 85% 50%) 100%)',
               }}
             />
-            <div className="text-xs text-neutral-500">강함</div>
+            <div className="text-xs text-neutral-500">Strong</div>
           </div>
         </div>
       </div>
