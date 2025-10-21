@@ -141,7 +141,7 @@ export default function PowerTrajectoryGraph({
       </svg>
 
       <p className="mt-2 text-sm text-gray-700">
-        현재 위치 점수:{' '}
+        Current Power Index:{' '}
         <span className="font-bold text-blue-700">
           {(score * 100).toFixed(1)} / 100
         </span>

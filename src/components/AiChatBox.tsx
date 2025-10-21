@@ -48,9 +48,9 @@ export default function AiChatBox({
   return (
     <div className="flex flex-col h-full justify-between">
       <div className="space-y-3 overflow-y-auto flex-1 pr-1">
-        <div className="text-lg font-semibold text-blue-400">🎯 AI 전략 센터</div>
+        <div className="text-lg font-semibold text-blue-400">🎯 AI Strategy Center</div>
         <div className="text-sm text-gray-400 mb-2">
-          시뮬레이션 실행 전, 질문을 입력해 주세요.
+        Enter a question before running the simulation.
         </div>
 
         {aiExplanation && (
@@ -65,7 +65,7 @@ export default function AiChatBox({
       <div className="mt-4 flex items-end">
         <textarea
           className="flex-1 p-3 rounded-lg text-sm bg-[#2a2a3a] text-white resize-none h-24 focus:ring focus:ring-blue-500"
-          placeholder="AI에게 질문해보세요..."
+          placeholder="Ask to AI"
           value={userInput}
           onChange={(e) => setUserInput(e.target.value)}
         />
@@ -74,7 +74,7 @@ export default function AiChatBox({
           disabled={loading}
           className="ml-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg h-fit"
         >
-          {loading ? "GPT 실행중..." : "🚀"}
+          {loading ? "GPT loading" : "🚀"}
         </button>
       </div>
     </div>

@@ -13,10 +13,10 @@ type Props = {
 export default function CountryInfoPanel({ country: c }: Props) {
   return (
     <div className="flex flex-col w-full h-full space-y-4 pr-2 overflow-y-auto">
-      {/* 국가 개요 */}
+      {/* Country Overview */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">📌 국가 개요</h2>
+          <h2 className="text-lg font-semibold">📌 Country Overview</h2>
           <div className="flex items-center gap-2">
             <Image src={c.flag} alt="flag" width={32} height={20} />
             <span className="text-gray-700 text-sm">Capital: {c.capital}</span>
@@ -31,57 +31,59 @@ export default function CountryInfoPanel({ country: c }: Props) {
         </CardContent>
       </Card>
 
-      {/* 경제 지표 */}
+      {/* Economic Indicators */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">📈 경제 지표</h2>
+          <h2 className="text-lg font-semibold">📈 Economic Indicators</h2>
           <ul className="list-disc list-inside text-gray-700 space-y-1 text-sm">
             <li>GDP: {c.gdp}</li>
-            <li>1인당 GDP: {c.gdpPerCapita}</li>
-            <li>실업률: {c.unemployment}</li>
-            <li>국가 부채율: {c.debtRatio}</li>
-            <li>무역 규모: {c.tradeVolume}</li>
-            <li>무역 의존도: {c.tradeDependency}</li>
+            <li>GDP per Capita: {c.gdpPerCapita}</li>
+            <li>Unemployment Rate: {c.unemployment}</li>
+            <li>National Debt Ratio: {c.debtRatio}</li>
+            <li>Total Trade Volume: {c.tradeVolume}</li>
+            <li>Trade Dependency: {c.tradeDependency}</li>
           </ul>
         </CardContent>
       </Card>
 
-      {/* 사회 구조 지표 */}
+      {/* Social Structure Indicators */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">🏙 사회 구조 지표</h2>
+          <h2 className="text-lg font-semibold">🏙 Social Structure Indicators</h2>
           <ul className="text-gray-700 space-y-1 text-sm">
-            <li>고령화율: {c.agingRate}</li>
-            <li>도시화율: {c.urbanizationRate}</li>
-            <li>지니계수: {c.gini}</li>
-            <li>고등교육 진학률: {c.higherEdRate}</li>
+            <li>Aging Rate: {c.agingRate}</li>
+            <li>Urbanization Rate: {c.urbanizationRate}</li>
+            <li>Gini Coefficient: {c.gini}</li>
+            <li>Higher Education Enrollment: {c.higherEdRate}</li>
           </ul>
         </CardContent>
       </Card>
 
-      {/* 지정학 정보 */}
+      {/* Geopolitical Information */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">🌐 지정학 정보</h2>
-          <p className="text-green-600 text-sm">우호국: {c.allies.join(', ')}</p>
-          <p className="text-red-500 text-sm">적대국: {c.enemies.join(', ')}</p>
-          <p className="text-sm">외교 정렬: {c.alignment}</p>
-          <p className="text-sm">안보 위협 등급: {c.securityThreatLevel}</p>
+          <h2 className="text-lg font-semibold">🌐 Geopolitical Information</h2>
+          <p className="text-green-600 text-sm">Allies: {c.allies.join(', ')}</p>
+          <p className="text-red-500 text-sm">Adversaries: {c.enemies.join(', ')}</p>
+          <p className="text-sm">Diplomatic Alignment: {c.alignment}</p>
+          <p className="text-sm">Security Threat Level: {c.securityThreatLevel}</p>
         </CardContent>
       </Card>
 
-      {/* 정치/사회 정세 */}
+      {/* Political / Social Landscape */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">🧭 정치/사회 정세</h2>
-          <p className="text-sm">정권 상태: <span className="font-semibold">{c.regimeStatus}</span></p>
+          <h2 className="text-lg font-semibold">🧭 Political / Social Landscape</h2>
+          <p className="text-sm">
+            Regime Status: <span className="font-semibold">{c.regimeStatus}</span>
+          </p>
         </CardContent>
       </Card>
 
-      {/* 변수 상태 */}
+      {/* Current Variable Status */}
       <Card>
         <CardContent className="space-y-2 pt-4">
-          <h2 className="text-lg font-semibold">📊 현재 변수 상태</h2>
+          <h2 className="text-lg font-semibold">📊 Current Variable Status</h2>
           <div className="grid grid-cols-2 gap-2">
             {Object.entries(c.currentScores).map(([key, val]) => (
               <VariableBar key={key} label={key} value={val} />

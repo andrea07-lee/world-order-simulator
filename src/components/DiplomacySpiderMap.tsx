@@ -17,7 +17,6 @@ export type IndicatorKey =
 type Country = {
   code: string;
   name: string;
-  name_kr: string;
   flag: string;
 };
 
@@ -44,18 +43,19 @@ type DataSet = {
 export type DiplomacySpiderMapProps = {
   className?: string;
   maxWidth?: number;
+  showUploader?: boolean;
   countryCode: string;
   country: CountryInfoType;
 };
 
 // ===== 국가 목록 =====
 const COUNTRIES: Country[] = [
-  { code: 'KOR', name: 'South Korea', name_kr: '대한민국', flag: '🇰🇷' },
-  { code: 'USA', name: 'United States', name_kr: '미국', flag: '🇺🇸' },
-  { code: 'CHN', name: 'China', name_kr: '중국', flag: '🇨🇳' },
-  { code: 'JPN', name: 'Japan', name_kr: '일본', flag: '🇯🇵' },
-  { code: 'RUS', name: 'Russia', name_kr: '러시아', flag: '🇷🇺' },
-  { code: 'GBR', name: 'United Kingdom', name_kr: '영국', flag: '🇬🇧' },
+  { code: 'KOR', name: 'South Korea', flag: '🇰🇷' },
+  { code: 'USA', name: 'United States', flag: '🇺🇸' },
+  { code: 'CHN', name: 'China', flag: '🇨🇳' },
+  { code: 'JPN', name: 'Japan', flag: '🇯🇵' },
+  { code: 'RUS', name: 'Russia', flag: '🇷🇺' },
+  { code: 'GBR', name: 'United Kingdom', flag: '🇬🇧' },
 ];
 
 // ===== 색상 및 좌표 계산 함수 =====
@@ -177,13 +177,14 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
   );
 
   const legends = [
-    { key: 'military', label: '군사' },
-    { key: 'treaty', label: '협정/조약' },
-    { key: 'trade', label: '무역/투자' },
-    { key: 'students', label: '인적교류' },
-    { key: 'votes', label: 'UN 투표일치' },
-    { key: 'culture', label: '문화/사회' },
+    { key: 'military', label: 'Military Cooperation' },
+    { key: 'treaty', label: 'Treaties & Agreements' },
+    { key: 'trade', label: 'Trade & Investment' },
+    { key: 'students', label: 'People-to-People Exchange' },
+    { key: 'votes', label: 'UN Voting Alignment' },
+    { key: 'culture', label: 'Cultural & Social Ties' },
   ];
+  
 
   return (
     <div className={['mx-auto w-full', className].filter(Boolean).join(' ')} style={{ maxWidth }}>
@@ -235,8 +236,8 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
                     content: (
                       <div>
                         <div className="font-semibold">
-                          {center.flag} {center.name_kr} ↔ {nodeMap.get(l.to)?.c.flag}{' '}
-                          {nodeMap.get(l.to)?.c.name_kr}
+                          {center.flag} {center.name} ↔ {nodeMap.get(l.to)?.c.flag}{' '}
+                          {nodeMap.get(l.to)?.c.name}
                         </div>
                         <div className="mt-1 text-xs">
                           {legends.find((x) => x.key === selected)?.label}: {(score * 100).toFixed(0)}
@@ -264,7 +265,7 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
                     textAnchor="middle"
                     className="fill-neutral-900 text-[13px] font-semibold"
                   >
-                    {c.name_kr}
+                    {c.name}
                   </text>
                 </>
               ) : (
@@ -274,7 +275,7 @@ export default function DiplomacySpiderMap({ className, maxWidth = 980, countryC
                     {c.flag}
                   </text>
                   <text y={12} textAnchor="middle" className="fill-neutral-800 text-[11px]">
-                    {c.name_kr}
+                    {c.name}
                   </text>
                 </>
               )}

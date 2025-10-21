@@ -24,6 +24,15 @@ const FILTER_KEYS: FilterKey[] = [
   'population_total',
 ];
 
+const FILTER_LABELS: Record<FilterKey, string> = {
+  democracy_index: "Democracy Index",
+  trade_pct_gdp: "Trade (% of GDP)",
+  gdp_ppp_current_intl: "GDP (PPP, current international $)",
+  military_expenditure_pct_gdp: "Military Expenditure (% of GDP)",
+  population_total: "Population (Total)",
+};
+
+
 const SLIDER_STEP: Partial<Record<FilterKey, number>> = {
   population_total: 10_000_000,
   gdp_ppp_current_intl: 100_000_000_000,
@@ -33,12 +42,13 @@ const SLIDER_STEP: Partial<Record<FilterKey, number>> = {
 };
 
 const LABEL_FORMAT: Partial<Record<FilterKey, (v: number) => string>> = {
-  population_total: (v: number) => `${Math.round(v / 1_000_000)}백만`,
-  gdp_ppp_current_intl: (v: number) => `${(v / 1_000_000_000_000).toFixed(1)}조$`,
+  population_total: (v: number) => `${Math.round(v / 1_000_000)} million`,
+  gdp_ppp_current_intl: (v: number) => `${(v / 1_000_000_000_000).toFixed(1)} trillion $`,
   trade_pct_gdp: (v: number) => `${v.toFixed(0)}%`,
   military_expenditure_pct_gdp: (v: number) => `${v.toFixed(1)}%`,
   democracy_index: (v: number) => v.toFixed(1),
 };
+
 
 export default function Home() {
   const [indicators, setIndicators] = useState<any[]>([]);
@@ -67,7 +77,6 @@ export default function Home() {
 
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [inputValues, setInputValues] = useState<Record<string, number>>({});
-  const [useGlobe, setUseGlobe] = useState(false);
   const [isChatExpanded, setIsChatExpanded] = useState(false);
   const [aiExplanation, setAiExplanation] = useState('');
 
@@ -217,36 +226,22 @@ export default function Home() {
 
   return (
     <div className="w-screen h-screen overflow-hidden">
-      {!selectedCountry && (
-        <div className="absolute top-4 left-4 z-50">
-          <button
-            onClick={() => setUseGlobe(!useGlobe)}
-            className="px-3 py-1 bg-gray-200 rounded hover:bg-gray-300"
-          >
-            {useGlobe ? 'Switch to Flat' : 'Switch to Globe'}
-          </button>
-        </div>
-      )}
-
       {!selectedCountry ? (
         <div className="grid grid-cols-12 gap-4 w-full h-full p-4">
           <div className="col-span-8 h-full rounded-xl overflow-hidden bg-neutral-900">
-            {useGlobe ? (
-              <WorldMapToggle onSelectCountry={handleCountrySelect} />
-            ) : (
-              <WorldMap
-                onSelectCountry={handleCountrySelect}
-                highlightedIso3={highlightedIso3}
-                filterActive={filterActive}
-              />
-            )}
+          <WorldMap
+          onSelectCountry={handleCountrySelect}
+          highlightedIso3={highlightedIso3}
+          filterActive={filterActive}
+          />
+
           </div>
 
           <div className="col-span-4 h-full overflow-y-auto">
             <div className="p-3 text-sm text-gray-700">
               <div className="font-semibold">Filter</div>
               <div className="opacity-70">
-                체크한 지표의 하한(이상) 조건에 맞는 국가만 강조됩니다.
+              Highlights countries meeting the selected threshold conditions.
               </div>
             </div>
 
@@ -275,6 +270,7 @@ export default function Home() {
               formatOf={(k, v) =>
                 (LABEL_FORMAT[k] ?? ((x: number) => String(x)))(v)
               }
+              labelMap={FILTER_LABELS}
             />
           </div>
         </div>
@@ -312,7 +308,7 @@ export default function Home() {
                   onClick={handleSimulate}
                   className="mt-6 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
                 >
-                  🔍 분석 확대
+                  🔍 Expand analysis
                 </button>
               </div>
               <div className="col-span-3 bg-gray-50 border-l border-gray-300 p-6 flex flex-col overflow-y-auto">
@@ -352,7 +348,7 @@ export default function Home() {
                   onClick={handleMinimize}
                   className="mt-6 px-4 py-2 bg-gray-200 text-black rounded hover:bg-gray-300"
                 >
-                  ← 간략 보기로
+                  ← Simplified view
                 </button>
               </motion.div>
               <motion.div
