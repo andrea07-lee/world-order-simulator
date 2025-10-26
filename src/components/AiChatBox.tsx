@@ -50,7 +50,18 @@ export default function AiChatBox({
       <div className="space-y-3 overflow-y-auto flex-1 pr-1">
         <div className="text-lg font-semibold text-blue-400">🎯 AI Strategy Center</div>
         <div className="text-sm text-gray-400 mb-2">
-        Enter a question before running the simulation.
+        You may ask strategic or analytical questions before running the simulation.
+Try asking things like:
+
+“How would rising debt and internal conflict affect national stability?”
+
+“What if this country forms a stronger alliance with the U.S.?”
+
+“How can I reduce crisis risk without weakening trade relations?”
+
+“Which factor contributes most to long-term decline in this scenario?”
+
+“Summarize the key threats facing this nation right now.”
         </div>
 
         {aiExplanation && (
